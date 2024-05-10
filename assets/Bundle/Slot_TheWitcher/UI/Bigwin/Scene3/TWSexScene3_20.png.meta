@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9dee5243-2c24-478d-8b98-c2be7e0c05f5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 624,
+  "height": 410,
+  "platformSettings": {},
+  "subMetas": {
+    "TWSexScene3_20": {
+      "ver": "1.0.6",
+      "uuid": "dc936287-01be-4198-8a11-f2c5468887e0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9dee5243-2c24-478d-8b98-c2be7e0c05f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 624,
+      "height": 410,
+      "rawWidth": 624,
+      "rawHeight": 410,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,538 @@
+
+Spine_CaptainJack.png
+size: 2005, 1947
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+M_Jack_AdvanceShoot0000
+  rotate: true
+  xy: 1344, 1737
+  size: 208, 263
+  orig: 438, 438
+  offset: 118, 61
+  index: -1
+M_Jack_AdvanceShoot0002
+  rotate: false
+  xy: 2, 638
+  size: 205, 267
+  orig: 438, 438
+  offset: 121, 57
+  index: -1
+M_Jack_AdvanceShoot0004
+  rotate: false
+  xy: 2, 371
+  size: 204, 265
+  orig: 438, 438
+  offset: 122, 58
+  index: -1
+M_Jack_AdvanceShoot0006
+  rotate: false
+  xy: 918, 1477
+  size: 205, 238
+  orig: 438, 438
+  offset: 121, 85
+  index: -1
+M_Jack_AdvanceShoot0008
+  rotate: false
+  xy: 401, 929
+  size: 205, 243
+  orig: 438, 438
+  offset: 119, 85
+  index: -1
+M_Jack_AdvanceShoot0010
+  rotate: false
+  xy: 288, 1423
+  size: 210, 243
+  orig: 438, 438
+  offset: 112, 85
+  index: -1
+M_Jack_AdvanceShoot0012
+  rotate: false
+  xy: 500, 1455
+  size: 212, 242
+  orig: 438, 438
+  offset: 111, 85
+  index: -1
+M_Jack_AdvanceShoot0014
+  rotate: true
+  xy: 1609, 1736
+  size: 209, 255
+  orig: 438, 438
+  offset: 116, 70
+  index: -1
+M_Jack_AdvanceToIdle0000
+  rotate: true
+  xy: 1078, 1737
+  size: 208, 264
+  orig: 438, 438
+  offset: 119, 60
+  index: -1
+M_Jack_AdvanceToIdle0002
+  rotate: false
+  xy: 714, 1471
+  size: 202, 239
+  orig: 438, 438
+  offset: 118, 87
+  index: -1
+M_Jack_AdvanceToIdle0004
+  rotate: false
+  xy: 642, 1218
+  size: 207, 235
+  orig: 438, 438
+  offset: 116, 95
+  index: -1
+M_Jack_AdvanceToIdle0006
+  rotate: false
+  xy: 831, 1717
+  size: 245, 228
+  orig: 438, 438
+  offset: 111, 104
+  index: -1
+M_Jack_AdvanceToIdle0008
+  rotate: true
+  xy: 1261, 1077
+  size: 187, 225
+  orig: 438, 438
+  offset: 111, 106
+  index: -1
+M_Jack_AdvanceToIdle0010
+  rotate: true
+  xy: 1117, 112
+  size: 186, 223
+  orig: 438, 438
+  offset: 111, 107
+  index: -1
+M_Jack_AdvanceToIdle0012
+  rotate: true
+  xy: 209, 482
+  size: 187, 228
+  orig: 438, 438
+  offset: 112, 100
+  index: -1
+M_Jack_AdvanceToIdle0014
+  rotate: false
+  xy: 851, 1234
+  size: 195, 235
+  orig: 438, 438
+  offset: 111, 89
+  index: -1
+M_Jack_AdvanceToIdle0016
+  rotate: true
+  xy: 1724, 1065
+  size: 205, 230
+  orig: 438, 438
+  offset: 106, 88
+  index: -1
+M_Jack_AdvanceToIdle0018
+  rotate: true
+  xy: 439, 481
+  size: 210, 226
+  orig: 438, 438
+  offset: 106, 89
+  index: -1
+M_Jack_AdvanceToIdle0020
+  rotate: true
+  xy: 438, 31
+  size: 212, 225
+  orig: 438, 438
+  offset: 110, 89
+  index: -1
+M_Jack_AdvanceToIdle0022
+  rotate: false
+  xy: 665, 14
+  size: 224, 225
+  orig: 438, 438
+  offset: 102, 88
+  index: -1
+M_Jack_AdvanceToIdle0024
+  rotate: false
+  xy: 1342, 69
+  size: 205, 230
+  orig: 438, 438
+  offset: 121, 89
+  index: -1
+M_Jack_AdvanceToIdle0026
+  rotate: false
+  xy: 1125, 1503
+  size: 238, 232
+  orig: 438, 438
+  offset: 121, 89
+  index: -1
+M_Jack_AdvanceToIdle0028
+  rotate: false
+  xy: 577, 1712
+  size: 252, 233
+  orig: 438, 438
+  offset: 119, 89
+  index: -1
+M_Jack_AdvanceToIdle0030
+  rotate: true
+  xy: 1365, 1509
+  size: 226, 235
+  orig: 438, 438
+  offset: 115, 88
+  index: -1
+M_Jack_Shoot0000
+  rotate: true
+  xy: 1602, 1508
+  size: 226, 235
+  orig: 438, 438
+  offset: 115, 88
+  index: -1
+M_Jack_Shoot0002
+  rotate: false
+  xy: 1048, 1240
+  size: 211, 235
+  orig: 438, 438
+  offset: 104, 89
+  index: -1
+M_Jack_Shoot0004
+  rotate: false
+  xy: 1108, 770
+  size: 200, 233
+  orig: 438, 438
+  offset: 90, 89
+  index: -1
+M_Jack_Shoot0006
+  rotate: false
+  xy: 1334, 301
+  size: 200, 232
+  orig: 438, 438
+  offset: 91, 89
+  index: -1
+M_Jack_Shoot0008
+  rotate: false
+  xy: 2, 1668
+  size: 319, 277
+  orig: 438, 438
+  offset: 11, 12
+  index: -1
+M_Jack_Shoot0010
+  rotate: false
+  xy: 323, 1699
+  size: 252, 246
+  orig: 438, 438
+  offset: 80, 45
+  index: -1
+M_Jack_Shoot0012
+  rotate: false
+  xy: 2, 1416
+  size: 284, 250
+  orig: 438, 438
+  offset: 47, 47
+  index: -1
+M_Jack_Shoot0014
+  rotate: false
+  xy: 2, 1174
+  size: 248, 240
+  orig: 438, 438
+  offset: 86, 71
+  index: -1
+M_Jack_Shoot0016
+  rotate: false
+  xy: 1488, 1272
+  size: 226, 234
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_Switch0000
+  rotate: false
+  xy: 1716, 1272
+  size: 226, 234
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_Switch0002
+  rotate: true
+  xy: 1488, 1075
+  size: 195, 234
+  orig: 438, 438
+  offset: 119, 89
+  index: -1
+M_Jack_Switch0004
+  rotate: false
+  xy: 1050, 1005
+  size: 208, 233
+  orig: 438, 438
+  offset: 109, 88
+  index: -1
+M_Jack_Switch0006
+  rotate: true
+  xy: 210, 44
+  size: 200, 226
+  orig: 438, 438
+  offset: 121, 89
+  index: -1
+M_Jack_Switch0008
+  rotate: true
+  xy: 1783, 411
+  size: 199, 220
+  orig: 438, 438
+  offset: 121, 89
+  index: -1
+M_Jack_Switch0010
+  rotate: true
+  xy: 1752, 208
+  size: 201, 220
+  orig: 438, 438
+  offset: 120, 86
+  index: -1
+M_Jack_Switch0012
+  rotate: false
+  xy: 1549, 199
+  size: 201, 221
+  orig: 438, 438
+  offset: 118, 89
+  index: -1
+M_Jack_Switch0014
+  rotate: true
+  xy: 1549, 2
+  size: 195, 219
+  orig: 438, 438
+  offset: 119, 100
+  index: -1
+M_Jack_Switch0016
+  rotate: false
+  xy: 1531, 847
+  size: 191, 226
+  orig: 438, 438
+  offset: 119, 102
+  index: -1
+M_Jack_Switch0018
+  rotate: true
+  xy: 1770, 18
+  size: 188, 228
+  orig: 438, 438
+  offset: 118, 104
+  index: -1
+M_Jack_Switch0020
+  rotate: true
+  xy: 1552, 422
+  size: 188, 229
+  orig: 438, 438
+  offset: 117, 102
+  index: -1
+M_Jack_Switch0022
+  rotate: false
+  xy: 213, 917
+  size: 186, 255
+  orig: 438, 438
+  offset: 120, 71
+  index: -1
+M_Jack_Switch0024
+  rotate: false
+  xy: 452, 1184
+  size: 188, 237
+  orig: 438, 438
+  offset: 123, 88
+  index: -1
+M_Jack_Switch0026
+  rotate: false
+  xy: 252, 1174
+  size: 198, 240
+  orig: 438, 438
+  offset: 121, 86
+  index: -1
+M_Jack_Switch0028
+  rotate: false
+  xy: 2, 117
+  size: 206, 252
+  orig: 438, 438
+  offset: 119, 74
+  index: -1
+M_Jack_Switch0030
+  rotate: false
+  xy: 2, 907
+  size: 209, 265
+  orig: 438, 438
+  offset: 117, 59
+  index: -1
+M_Jack_idle0000
+  rotate: false
+  xy: 209, 671
+  size: 226, 234
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0002
+  rotate: false
+  xy: 1261, 1266
+  size: 225, 235
+  orig: 438, 438
+  offset: 115, 88
+  index: -1
+M_Jack_idle0004
+  rotate: false
+  xy: 437, 693
+  size: 224, 234
+  orig: 438, 438
+  offset: 114, 89
+  index: -1
+M_Jack_idle0006
+  rotate: false
+  xy: 663, 711
+  size: 223, 234
+  orig: 438, 438
+  offset: 114, 89
+  index: -1
+M_Jack_idle0008
+  rotate: false
+  xy: 667, 475
+  size: 221, 234
+  orig: 438, 438
+  offset: 114, 89
+  index: -1
+M_Jack_idle0010
+  rotate: false
+  xy: 828, 982
+  size: 220, 234
+  orig: 438, 438
+  offset: 114, 89
+  index: -1
+M_Jack_idle0012
+  rotate: false
+  xy: 608, 947
+  size: 218, 235
+  orig: 438, 438
+  offset: 115, 88
+  index: -1
+M_Jack_idle0014
+  rotate: false
+  xy: 888, 746
+  size: 218, 234
+  orig: 438, 438
+  offset: 114, 89
+  index: -1
+M_Jack_idle0016
+  rotate: false
+  xy: 1117, 535
+  size: 216, 233
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0018
+  rotate: false
+  xy: 1117, 300
+  size: 215, 233
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0020
+  rotate: false
+  xy: 1335, 607
+  size: 215, 232
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0022
+  rotate: false
+  xy: 1772, 612
+  size: 215, 232
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0024
+  rotate: true
+  xy: 1724, 846
+  size: 217, 232
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0026
+  rotate: false
+  xy: 1552, 612
+  size: 218, 232
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0028
+  rotate: false
+  xy: 1310, 841
+  size: 219, 232
+  orig: 438, 438
+  offset: 116, 89
+  index: -1
+M_Jack_idle0030
+  rotate: false
+  xy: 891, 41
+  size: 221, 232
+  orig: 438, 438
+  offset: 116, 89
+  index: -1
+M_Jack_idle0032
+  rotate: false
+  xy: 666, 241
+  size: 223, 232
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0034
+  rotate: false
+  xy: 891, 275
+  size: 224, 233
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0036
+  rotate: false
+  xy: 890, 510
+  size: 225, 234
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0038
+  rotate: false
+  xy: 210, 246
+  size: 226, 234
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+M_Jack_idle0040
+  rotate: false
+  xy: 438, 245
+  size: 226, 234
+  orig: 438, 438
+  offset: 115, 89
+  index: -1
+fx_dust
+  rotate: false
+  xy: 2, 23
+  size: 105, 92
+  orig: 123, 123
+  offset: 9, 12
+  index: -1
+fx_glow
+  rotate: false
+  xy: 109, 53
+  size: 62, 62
+  orig: 69, 69
+  offset: 4, 3
+  index: -1
+fx_shoot
+  rotate: false
+  xy: 1335, 551
+  size: 76, 54
+  orig: 89, 82
+  offset: 3, 14
+  index: -1
+fx_slash
+  rotate: false
+  xy: 1839, 1530
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+fx_slash dot
+  rotate: false
+  xy: 1866, 1808
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+fx_slash hit
+  rotate: false
+  xy: 1866, 1669
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1

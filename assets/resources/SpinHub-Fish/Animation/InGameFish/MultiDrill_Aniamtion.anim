@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MultiDrill_Aniamtion",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2db4cbf3-dc38-4af2-b7bd-d3d3ed3646e8"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "16a35c26-de47-44ba-9d9d-3f61cb9e2a88"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e0b33d91-0859-4d6e-902f-18696b143e85"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "d1879c6b-b38d-4711-a921-ddbc9fbf955d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6480b824-5c11-4853-bc54-0ffc6a919793"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "31b7ee5e-89fa-44be-9f7d-200130010f75"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "5a3712d3-556a-4f4d-8020-8196db35426a"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "bfdc4cf4-066d-4691-90b3-9fddb53cd8e9"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "3b231eab-c916-425f-9070-3ec50efc7acd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

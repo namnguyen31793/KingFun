@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "643f0dfa-fe9d-484e-9aba-2770f72dd17f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 227,
+  "platformSettings": {},
+  "subMetas": {
+    "Buddha_Light_01": {
+      "ver": "1.0.6",
+      "uuid": "e9c84864-e2aa-4587-9cb8-7a0bbde7c32a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "643f0dfa-fe9d-484e-9aba-2770f72dd17f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 290,
+      "height": 224,
+      "rawWidth": 300,
+      "rawHeight": 227,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

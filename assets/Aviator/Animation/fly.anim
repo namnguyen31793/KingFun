@@ -1,0 +1,72 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.15,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "chart_blue": {
+        "comps": {},
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 580
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 250
+            }
+          ]
+        }
+      },
+      "posPlane": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -322,
+                -173
+              ],
+              "motionPath": [
+                [
+                  -32,
+                  -90,
+                  -144,
+                  -137,
+                  135,
+                  -20
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                272,
+                87
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

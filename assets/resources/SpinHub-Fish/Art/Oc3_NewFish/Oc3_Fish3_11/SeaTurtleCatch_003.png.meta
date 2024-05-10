@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7ed8959d-46f2-4ead-815d-29927643408a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 151,
+  "platformSettings": {},
+  "subMetas": {
+    "SeaTurtleCatch_003": {
+      "ver": "1.0.6",
+      "uuid": "77f68c84-0e13-46fb-95b5-aac810a04c5f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7ed8959d-46f2-4ead-815d-29927643408a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -4.5,
+      "trimX": 3,
+      "trimY": 11,
+      "width": 65,
+      "height": 138,
+      "rawWidth": 79,
+      "rawHeight": 151,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

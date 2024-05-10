@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "66ac4ed7-0eac-4b9a-92f4-e74b162b2878",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 427,
+  "height": 1527,
+  "platformSettings": {},
+  "subMetas": {
+    "tam ban dan laser": {
+      "ver": "1.0.6",
+      "uuid": "3c69bd43-0aef-4053-8376-52dde44eecc0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "66ac4ed7-0eac-4b9a-92f4-e74b162b2878",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 427,
+      "height": 1527,
+      "rawWidth": 427,
+      "rawHeight": 1527,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

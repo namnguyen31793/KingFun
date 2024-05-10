@@ -1,0 +1,35 @@
+{
+  "ver": "1.2.5",
+  "uuid": "cb40e595-f9a3-4408-a841-a7844e61f8fd",
+  "importer": "auto-atlas",
+  "maxWidth": 256,
+  "maxHeight": 256,
+  "padding": 2,
+  "compressionLevel": 6,
+  "allowRotation": true,
+  "forceSquared": false,
+  "powerOfTwo": false,
+  "algorithm": "MaxRects",
+  "format": "png",
+  "quality": 80,
+  "contourBleed": true,
+  "paddingBleed": true,
+  "filterUnused": true,
+  "packable": false,
+  "premultiplyAlpha": false,
+  "filterMode": "bilinear",
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    },
+    "web": {
+      "formats": []
+    }
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,50 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ee8321b5-adff-41c9-a02f-70e112bcf235",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    },
+    "web": {
+      "formats": []
+    }
+  },
+  "subMetas": {
+    "fish_ani_move_1": {
+      "ver": "1.0.6",
+      "uuid": "5f4350cd-3abc-408c-a229-1765f3a3be9b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ee8321b5-adff-41c9-a02f-70e112bcf235",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -19.5,
+      "offsetY": 7,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 85,
+      "height": 110,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

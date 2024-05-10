@@ -1,0 +1,125 @@
+
+Spine_GunZombieGirl.png
+size: 492, 509
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Beads
+  rotate: false
+  xy: 422, 375
+  size: 63, 54
+  orig: 65, 54
+  offset: 1, 0
+  index: -1
+Charm
+  rotate: false
+  xy: 458, 327
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 418, 94
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2, 19
+  size: 207, 234
+  orig: 207, 234
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: true
+  xy: 364, 252
+  size: 38, 96
+  orig: 38, 96
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 198, 370
+  size: 139, 222
+  orig: 139, 222
+  offset: 0, 0
+  index: -1
+HairM
+  rotate: false
+  xy: 198, 247
+  size: 164, 121
+  orig: 164, 121
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 429, 31
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 2, 228
+  size: 281, 194
+  orig: 281, 194
+  offset: 0, 0
+  index: -1
+PonyTail
+  rotate: true
+  xy: 238, 87
+  size: 158, 91
+  orig: 158, 91
+  offset: 0, 0
+  index: -1
+Skirt
+  rotate: false
+  xy: 349, 16
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+SleeveB
+  rotate: false
+  xy: 422, 431
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+SleeveF
+  rotate: true
+  xy: 331, 168
+  size: 77, 137
+  orig: 77, 137
+  offset: 0, 0
+  index: -1
+Spell
+  rotate: true
+  xy: 364, 292
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+SpellShadow
+  rotate: true
+  xy: 238, 4
+  size: 81, 109
+  orig: 81, 109
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 331, 90
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 462, 276
+  size: 49, 20
+  orig: 51, 20
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+UI_BtnSpin.png
+size: 935,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame
+  rotate: false
+  xy: 322, 207
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+Glow_Pattern
+  rotate: false
+  xy: 2, 150
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+Green
+  rotate: true
+  xy: 322, 3
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+GreenLight
+  rotate: false
+  xy: 585, 221
+  size: 246, 247
+  orig: 246, 247
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 527, 2
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 2, 79
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+dissible
+  rotate: false
+  xy: 731, 16
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1

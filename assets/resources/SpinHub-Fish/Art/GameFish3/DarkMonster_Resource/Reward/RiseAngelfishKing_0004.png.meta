@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8cb2eef0-e70a-47b9-8054-7a114edffb08",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 172,
+  "platformSettings": {},
+  "subMetas": {
+    "RiseAngelfishKing_0004": {
+      "ver": "1.0.6",
+      "uuid": "3648a9c2-ef75-4abd-98dc-5a5bbaa90096",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8cb2eef0-e70a-47b9-8054-7a114edffb08",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 7,
+      "trimY": 5,
+      "width": 125,
+      "height": 161,
+      "rawWidth": 140,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EndAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 1,
+          "value": 308.7629
+        },
+        {
+          "frame": 1.4,
+          "value": 360
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.4,
+      "func": "PlayEffect",
+      "params": []
+    }
+  ]
+}

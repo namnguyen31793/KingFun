@@ -1,0 +1,34 @@
+
+thethao.png
+size: 628,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 3
+  size: 194, 195
+  orig: 196, 197
+  offset: 1, 1
+  index: -1
+anh sang
+  rotate: true
+  xy: 198, 8
+  size: 190, 180
+  orig: 192, 182
+  offset: 1, 1
+  index: -1
+nhan vat
+  rotate: true
+  xy: 380, 14
+  size: 184, 178
+  orig: 186, 181
+  offset: 1, 2
+  index: -1
+text
+  rotate: true
+  xy: 560, 2
+  size: 196, 65
+  orig: 199, 67
+  offset: 1, 1
+  index: -1

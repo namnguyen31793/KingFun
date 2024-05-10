@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "IdleDragon1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a4478e07-ac31-4d42-ae46-d7b18811f873"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

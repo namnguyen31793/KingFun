@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e65ce469-ecfe-415c-b7bb-a5f7991e3632",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 107,
+  "height": 166,
+  "platformSettings": {},
+  "subMetas": {
+    "drillGUn": {
+      "ver": "1.0.6",
+      "uuid": "e619978f-576b-4405-8216-80910fa0db50",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e65ce469-ecfe-415c-b7bb-a5f7991e3632",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 107,
+      "height": 166,
+      "rawWidth": 107,
+      "rawHeight": 166,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

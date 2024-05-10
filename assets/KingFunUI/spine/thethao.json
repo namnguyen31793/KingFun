@@ -1,0 +1,70 @@
+{
+"skeleton": {
+	"hash": "0rSsWGwC3RJdPgUu6hDJeSX+aMc",
+	"spine": "3.8.75",
+	"x": -1,
+	"y": -201,
+	"width": 199,
+	"height": 202,
+	"images": "../images/",
+	"audio": "E:/GAME BAI 2/MRMONO/ICON ĐỘNG/ICON ĐỘNG/THỂ THAO"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "nhan vat", "parent": "root", "x": 100.11, "y": -147.58 },
+	{ "name": "text", "parent": "root", "x": 102.93, "y": -179.07 },
+	{ "name": "anh sang", "parent": "root", "x": 99.17, "y": -84.6, "color": "ffbf00ff" }
+],
+"slots": [
+	{ "name": "BG", "bone": "root", "attachment": "BG" },
+	{ "name": "anh sang", "bone": "anh sang", "attachment": "anh sang" },
+	{ "name": "nhan vat", "bone": "nhan vat", "attachment": "nhan vat" },
+	{ "name": "text", "bone": "text", "attachment": "text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BG": {
+				"BG": { "x": 100, "y": -100.5, "width": 196, "height": 197 }
+			},
+			"anh sang": {
+				"anh sang": { "x": -0.17, "y": -5.4, "width": 192, "height": 182 }
+			},
+			"text": {
+				"text": { "x": -4.43, "y": 11.57, "width": 199, "height": 67 }
+			},
+			"nhan vat": {
+				"nhan vat": { "x": -3.11, "y": 37.08, "width": 186, "height": 181 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"nhan vat": {
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 1.061, "y": 1.061 },
+					{ "time": 1 }
+				]
+			},
+			"anh sang": {
+				"scale": [
+					{ "x": 1.04, "y": 1.04 },
+					{ "time": 0.5, "x": 1.34, "y": 1.34 },
+					{ "time": 1, "x": 1.04, "y": 1.04 }
+				]
+			},
+			"text": {
+				"scale": [
+					{ "curve": 0.557, "c3": 0.515 },
+					{ "time": 0.5, "x": 1.127, "y": 1.127, "curve": 0.557, "c3": 0.515 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

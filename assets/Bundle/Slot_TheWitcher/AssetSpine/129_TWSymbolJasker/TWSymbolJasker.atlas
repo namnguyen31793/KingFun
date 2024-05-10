@@ -1,0 +1,97 @@
+
+TWSymbolJasker.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 84
+  size: 106, 170
+  orig: 106, 170
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 110, 101
+  size: 153, 70
+  orig: 153, 70
+  offset: 0, 0
+  index: -1
+canh khung
+  rotate: false
+  xy: 182, 102
+  size: 9, 152
+  orig: 9, 152
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 110, 30
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+goc khung
+  rotate: false
+  xy: 138, 4
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 12
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+loe
+  rotate: false
+  xy: 233, 173
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+note
+  rotate: false
+  xy: 109, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+note_2
+  rotate: false
+  xy: 188, 4
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+toc_1
+  rotate: false
+  xy: 188, 46
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+toc_2
+  rotate: false
+  xy: 193, 185
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+toc_mai
+  rotate: true
+  xy: 220, 57
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+toc_sau
+  rotate: false
+  xy: 193, 100
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1

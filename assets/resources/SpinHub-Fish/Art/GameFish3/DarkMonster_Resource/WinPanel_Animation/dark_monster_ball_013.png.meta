@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ce6e3242-5a04-488a-9ae1-e555fe5e1753",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 206,
+  "platformSettings": {},
+  "subMetas": {
+    "dark_monster_ball_013": {
+      "ver": "1.0.6",
+      "uuid": "2d31523c-b86a-4eeb-b72e-16cdecb1cba3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ce6e3242-5a04-488a-9ae1-e555fe5e1753",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 3.5,
+      "trimX": 9,
+      "trimY": 9,
+      "width": 209,
+      "height": 181,
+      "rawWidth": 229,
+      "rawHeight": 206,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

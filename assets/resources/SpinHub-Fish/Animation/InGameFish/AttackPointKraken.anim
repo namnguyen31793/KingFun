@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AttackPointKraken",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0c1a833a-deb6-4af9-98cc-3ad5d727c034"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "6d1b7d57-97ab-4405-a5ea-a001f4df7e64"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b6145d46-d793-4cc2-89a9-85be65b7ebc8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

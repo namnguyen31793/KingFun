@@ -1,0 +1,27 @@
+{
+  "ver": "2.3.7",
+  "uuid": "112ff6d2-8b3d-402c-a578-cd9c49d6c587",
+  "importer": "texture",
+  "type": "raw",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 942,
+  "height": 316,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    },
+    "web": {
+      "formats": []
+    }
+  },
+  "subMetas": {}
+}

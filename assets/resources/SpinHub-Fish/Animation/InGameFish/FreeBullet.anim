@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FreeBullet",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3307dd9d-b565-4962-8146-b9b93133acd1"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "1cecca81-5a54-4e48-a6c9-4fac422939eb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

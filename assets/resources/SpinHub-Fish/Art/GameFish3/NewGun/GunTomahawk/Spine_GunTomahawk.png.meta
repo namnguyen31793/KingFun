@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "44db6d38-9e19-4a9b-9df6-e9651915b6ef",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 645,
+  "height": 272,
+  "platformSettings": {},
+  "subMetas": {
+    "Spine_GunTomahawk": {
+      "ver": "1.0.6",
+      "uuid": "d11dca13-338a-46b6-b4bc-498e07751c45",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "44db6d38-9e19-4a9b-9df6-e9651915b6ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 640,
+      "height": 268,
+      "rawWidth": 645,
+      "rawHeight": 272,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

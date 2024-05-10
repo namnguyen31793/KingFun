@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8b9bfb89-f7f4-472e-bc1a-00c876484581",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 360,
+  "height": 359,
+  "platformSettings": {},
+  "subMetas": {
+    "fri_qurata_red-export": {
+      "ver": "1.0.6",
+      "uuid": "fa4d2b20-3b4d-4914-bb18-717c6b515f14",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8b9bfb89-f7f4-472e-bc1a-00c876484581",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 359,
+      "height": 358,
+      "rawWidth": 360,
+      "rawHeight": 359,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

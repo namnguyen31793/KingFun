@@ -1,0 +1,97 @@
+
+Spine_GunTomahawk.png
+size: 645, 272
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Mask
+  rotate: false
+  xy: 119, 94
+  size: 133, 176
+  orig: 133, 176
+  offset: 0, 0
+  index: -1
+Mask_Glow
+  rotate: false
+  xy: 254, 103
+  size: 143, 167
+  orig: 146, 170
+  offset: 2, 2
+  index: -1
+Tomahawk
+  rotate: false
+  xy: 2, 17
+  size: 115, 253
+  orig: 115, 253
+  offset: 0, 0
+  index: -1
+Tomahawk_Glow
+  rotate: false
+  xy: 516, 112
+  size: 127, 158
+  orig: 138, 180
+  offset: 5, 11
+  index: -1
+Tomahawk_S
+  rotate: false
+  xy: 399, 103
+  size: 115, 167
+  orig: 115, 167
+  offset: 0, 0
+  index: -1
+Tomahawk_S_Glow
+  rotate: true
+  xy: 350, 27
+  size: 74, 147
+  orig: 76, 148
+  offset: 1, 0
+  index: -1
+barrel
+  rotate: false
+  xy: 255, 3
+  size: 93, 98
+  orig: 93, 98
+  offset: 0, 0
+  index: -1
+barrel_Glow
+  rotate: true
+  xy: 350, 2
+  size: 23, 21
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+chain_A
+  rotate: false
+  xy: 551, 24
+  size: 39, 39
+  orig: 39, 40
+  offset: 0, 1
+  index: -1
+chain_B
+  rotate: false
+  xy: 551, 65
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+eye_Glow
+  rotate: false
+  xy: 499, 36
+  size: 50, 65
+  orig: 54, 69
+  offset: 2, 2
+  index: -1
+mouth
+  rotate: true
+  xy: 119, 7
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+mouth_Glow
+  rotate: true
+  xy: 196, 7
+  size: 85, 57
+  orig: 85, 58
+  offset: 0, 0
+  index: -1

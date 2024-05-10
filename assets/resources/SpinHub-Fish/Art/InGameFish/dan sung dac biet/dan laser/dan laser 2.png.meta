@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "99a97a57-170d-4f5c-b101-3cc556596455",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 99,
+  "height": 106,
+  "platformSettings": {},
+  "subMetas": {
+    "dan laser 2": {
+      "ver": "1.0.6",
+      "uuid": "c566a8de-d966-4de4-826f-e19364f486c9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "99a97a57-170d-4f5c-b101-3cc556596455",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 99,
+      "height": 106,
+      "rawWidth": 99,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

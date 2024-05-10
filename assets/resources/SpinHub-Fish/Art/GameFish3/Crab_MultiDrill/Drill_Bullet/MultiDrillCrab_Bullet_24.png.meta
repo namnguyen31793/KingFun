@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7be64ef6-f6f4-411d-bffc-89b00a642d60",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 168,
+  "height": 239,
+  "platformSettings": {},
+  "subMetas": {
+    "MultiDrillCrab_Bullet_24": {
+      "ver": "1.0.6",
+      "uuid": "3b231eab-c916-425f-9070-3ec50efc7acd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7be64ef6-f6f4-411d-bffc-89b00a642d60",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 164,
+      "height": 237,
+      "rawWidth": 168,
+      "rawHeight": 239,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

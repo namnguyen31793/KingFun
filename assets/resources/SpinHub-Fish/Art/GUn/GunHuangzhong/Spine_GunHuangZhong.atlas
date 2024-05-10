@@ -1,0 +1,146 @@
+
+Spine_GunHuangZhong.png
+size: 427, 523
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Golden_armor_R_Shoulder
+  rotate: true
+  xy: 86, 240
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+Golden_armor_R_Wolf_head
+  rotate: false
+  xy: 96, 3
+  size: 101, 152
+  orig: 109, 166
+  offset: 0, 7
+  index: -1
+Golden_armor_R_framework
+  rotate: false
+  xy: 2, 301
+  size: 281, 154
+  orig: 281, 154
+  offset: 0, 0
+  index: -1
+Golden_armor_R_framework_1
+  rotate: false
+  xy: 2, 229
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+Golden_armor_R_head
+  rotate: false
+  xy: 285, 229
+  size: 124, 95
+  orig: 156, 127
+  offset: 16, 16
+  index: -1
+Golden_armor_R_mandible
+  rotate: true
+  xy: 96, 157
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+Golden_armor_R_parts01
+  rotate: true
+  xy: 285, 433
+  size: 22, 18
+  orig: 26, 22
+  offset: 2, 2
+  index: -1
+Golden_armor_R_parts02
+  rotate: true
+  xy: 365, 32
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Golden_armor_R_parts03
+  rotate: true
+  xy: 285, 418
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Golden_armor_R_wing
+  rotate: true
+  xy: 305, 326
+  size: 96, 120
+  orig: 105, 131
+  offset: 3, 5
+  index: -1
+Golden_armor_badge
+  rotate: true
+  xy: 308, 424
+  size: 97, 117
+  orig: 97, 117
+  offset: 0, 0
+  index: -1
+Golden_armor_staff
+  rotate: true
+  xy: 2, 457
+  size: 64, 304
+  orig: 64, 304
+  offset: 0, 0
+  index: -1
+Ice_Mist_FX
+  rotate: false
+  xy: 277, 123
+  size: 118, 104
+  orig: 118, 104
+  offset: 0, 0
+  index: -1
+Ice_Smoke_FX
+  rotate: true
+  xy: 314, 16
+  size: 51, 49
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Light_Golden_armor_R_framework
+  rotate: true
+  xy: 2, 26
+  size: 201, 92
+  orig: 238, 113
+  offset: 35, 3
+  index: -1
+Light_Golden_armor_R_head
+  rotate: true
+  xy: 192, 181
+  size: 118, 83
+  orig: 131, 90
+  offset: 10, 5
+  index: -1
+Light_Golden_armor_R_mandible
+  rotate: false
+  xy: 199, 101
+  size: 76, 78
+  orig: 79, 82
+  offset: 1, 4
+  index: -1
+Light_Golden_armor_R_parts02
+  rotate: true
+  xy: 391, 89
+  size: 32, 34
+  orig: 35, 36
+  offset: 2, 1
+  index: -1
+Light_Golden_armor_R_wing
+  rotate: false
+  xy: 314, 69
+  size: 75, 52
+  orig: 82, 98
+  offset: 5, 42
+  index: -1
+Light_Golden_armor_badge
+  rotate: true
+  xy: 199, 2
+  size: 97, 113
+  orig: 97, 114
+  offset: 0, 1
+  index: -1

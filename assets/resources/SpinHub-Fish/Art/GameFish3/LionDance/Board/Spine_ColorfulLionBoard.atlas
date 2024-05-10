@@ -1,0 +1,27 @@
+
+Spine_ColorfulLionBoard.png
+size: 995, 97
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BG_B
+  rotate: false
+  xy: 2, 2
+  size: 329, 93
+  orig: 329, 93
+  offset: 0, 0
+  index: -1
+BG_G
+  rotate: false
+  xy: 333, 2
+  size: 329, 93
+  orig: 329, 93
+  offset: 0, 0
+  index: -1
+BG_R
+  rotate: false
+  xy: 664, 2
+  size: 329, 93
+  orig: 329, 93
+  offset: 0, 0
+  index: -1

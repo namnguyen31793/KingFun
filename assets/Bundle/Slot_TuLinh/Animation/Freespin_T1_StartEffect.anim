@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Freespin_T1_StartEffect",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "slotsView/KhungContent": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -988
+            },
+            {
+              "frame": 0.5,
+              "value": 12.121
+            }
+          ]
+        }
+      },
+      "slotsView/top-bar": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -697
+            },
+            {
+              "frame": 0.5,
+              "value": 303
+            }
+          ]
+        }
+      },
+      "slotsView/EffectView/TL_Symbol_Water": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -695
+            },
+            {
+              "frame": 0.5,
+              "value": 305
+            }
+          ]
+        }
+      },
+      "slotsView/bot-bar": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -1319
+            },
+            {
+              "frame": 0.5,
+              "value": -319
+            }
+          ]
+        }
+      },
+      "slotsView/left-bar": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": -500
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "slotsView/right-bar": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": 500
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

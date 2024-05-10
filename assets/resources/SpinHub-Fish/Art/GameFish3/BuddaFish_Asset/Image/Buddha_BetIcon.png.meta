@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1bbb1d5f-af57-4bee-a355-09c4f979a8cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "Buddha_BetIcon": {
+      "ver": "1.0.6",
+      "uuid": "0332ba76-699b-4e65-8933-124fc2edbe6c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1bbb1d5f-af57-4bee-a355-09c4f979a8cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 104,
+      "rawWidth": 104,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

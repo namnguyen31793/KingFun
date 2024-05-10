@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LazeGun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "eed80721-1cd5-475a-a8f2-d3ef741e92dd"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ec2b249c-91fa-4fef-9c59-0237ff9de711"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ec2b249c-91fa-4fef-9c59-0237ff9de711"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "eulerAngles": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 102
+          }
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 95.153
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

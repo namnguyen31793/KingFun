@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f1477c85-6447-4959-9083-77b0085670fd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 276,
+  "height": 446,
+  "platformSettings": {},
+  "subMetas": {
+    "9968_CungHyPhatTai_Banner": {
+      "ver": "1.0.6",
+      "uuid": "413a7a7f-165a-4f55-b82f-46a427ab8d08",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f1477c85-6447-4959-9083-77b0085670fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 276,
+      "height": 446,
+      "rawWidth": 276,
+      "rawHeight": 446,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

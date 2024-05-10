@@ -1,0 +1,104 @@
+
+TWSymbolSabrina.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 30
+  rotate: false
+  xy: 74, 79
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+Set1
+  rotate: false
+  xy: 2, 64
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+Set1 copy
+  rotate: false
+  xy: 2, 2
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 156
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+canh khung
+  rotate: false
+  xy: 207, 9
+  size: 9, 153
+  orig: 9, 153
+  offset: 0, 0
+  index: -1
+canh_khung_sang
+  rotate: false
+  xy: 218, 61
+  size: 9, 150
+  orig: 9, 150
+  offset: 0, 0
+  index: -1
+goc khung
+  rotate: false
+  xy: 229, 158
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+goc_khung_sang
+  rotate: false
+  xy: 229, 184
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+man den
+  rotate: true
+  xy: 97, 11
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 164, 22
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+toccong
+  rotate: true
+  xy: 117, 213
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+tocduoi
+  rotate: false
+  xy: 148, 89
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+tocmai
+  rotate: true
+  xy: 117, 164
+  size: 47, 92
+  orig: 47, 92
+  offset: 0, 0
+  index: -1
+vetsang
+  rotate: false
+  xy: 229, 210
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+taixiu.png
+size: 287,998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BR
+  rotate: false
+  xy: 2, 612
+  size: 191, 384
+  orig: 193, 386
+  offset: 1, 1
+  index: -1
+chuong
+  rotate: true
+  xy: 2, 221
+  size: 162, 199
+  orig: 164, 201
+  offset: 1, 1
+  index: -1
+lap lanh
+  rotate: false
+  xy: 2, 112
+  size: 107, 107
+  orig: 127, 127
+  offset: 11, 10
+  index: -1
+sang trong
+  rotate: false
+  xy: 2, 385
+  size: 200, 225
+  orig: 202, 228
+  offset: 1, 2
+  index: -1
+tai
+  rotate: false
+  xy: 2, 12
+  size: 117, 86
+  orig: 121, 90
+  offset: 2, 1
+  index: -1
+xiu
+  rotate: true
+  xy: 111, 100
+  size: 119, 87
+  orig: 123, 90
+  offset: 2, 1
+  index: -1
+xucxac_1
+  rotate: false
+  xy: 121, 2
+  size: 91, 96
+  orig: 93, 98
+  offset: 1, 1
+  index: -1
+xucxac_2
+  rotate: false
+  xy: 195, 906
+  size: 90, 90
+  orig: 92, 92
+  offset: 1, 1
+  index: -1
+xucxac_3
+  rotate: false
+  xy: 195, 818
+  size: 85, 86
+  orig: 87, 88
+  offset: 1, 1
+  index: -1

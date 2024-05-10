@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "96ff2453-02bb-4eff-abe2-1c59d05c5d0f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 898,
+  "height": 275,
+  "platformSettings": {},
+  "subMetas": {
+    "Spine_GunZombieBoy": {
+      "ver": "1.0.6",
+      "uuid": "bcf77516-a2fa-4741-b56b-1a6dee6a86a0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "96ff2453-02bb-4eff-abe2-1c59d05c5d0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 894,
+      "height": 271,
+      "rawWidth": 898,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

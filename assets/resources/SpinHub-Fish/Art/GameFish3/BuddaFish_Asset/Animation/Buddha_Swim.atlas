@@ -1,0 +1,398 @@
+
+Buddha_Swim.png
+size: 2033, 480
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+03_LV1Fish_beard
+  rotate: true
+  xy: 1351, 172
+  size: 111, 46
+  orig: 111, 46
+  offset: 0, 0
+  index: -1
+03_LV1Fish_body_000
+  rotate: true
+  xy: 2, 142
+  size: 336, 256
+  orig: 336, 256
+  offset: 0, 0
+  index: -1
+03_LV1Fish_face_000
+  rotate: true
+  xy: 1206, 18
+  size: 152, 179
+  orig: 152, 179
+  offset: 0, 0
+  index: -1
+03_LV2Fish_fan1_000
+  rotate: false
+  xy: 1547, 174
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+03_LV2Fish_fan2_000
+  rotate: false
+  xy: 1741, 292
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+03_LV3Fish_beard
+  rotate: true
+  xy: 1399, 172
+  size: 111, 46
+  orig: 111, 46
+  offset: 0, 0
+  index: -1
+03_LV3Fish_body_000
+  rotate: true
+  xy: 260, 142
+  size: 336, 256
+  orig: 336, 256
+  offset: 0, 0
+  index: -1
+03_LV3Fish_face_000
+  rotate: true
+  xy: 1387, 18
+  size: 152, 179
+  orig: 152, 179
+  offset: 0, 0
+  index: -1
+03_LV3Fish_fan1_000
+  rotate: true
+  xy: 1627, 350
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+03_LV3Fish_fan2_000
+  rotate: false
+  xy: 1836, 292
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+LV3_arm1
+  rotate: false
+  xy: 1785, 372
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+LV3_arm2
+  rotate: false
+  xy: 1892, 373
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+LV3_body
+  rotate: false
+  xy: 1455, 288
+  size: 170, 190
+  orig: 170, 190
+  offset: 0, 0
+  index: -1
+LV3_body2
+  rotate: false
+  xy: 1690, 51
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+LV3_clo1
+  rotate: true
+  xy: 2, 2
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+LV3_clo2
+  rotate: false
+  xy: 1568, 43
+  size: 120, 129
+  orig: 120, 129
+  offset: 0, 0
+  index: -1
+LV3_face/LV3_face_005
+  rotate: false
+  xy: 1869, 67
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+LV3_foot
+  rotate: true
+  xy: 1262, 172
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+LV3_hand_L
+  rotate: true
+  xy: 253, 6
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+LV3_ingot1
+  rotate: true
+  xy: 707, 4
+  size: 166, 128
+  orig: 166, 128
+  offset: 0, 0
+  index: -1
+LV3_ingot1_2
+  rotate: true
+  xy: 837, 4
+  size: 166, 128
+  orig: 166, 128
+  offset: 0, 0
+  index: -1
+LV3_ingot2
+  rotate: true
+  xy: 1946, 106
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+LV3_ingot2_2
+  rotate: true
+  xy: 1946, 31
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+LV3_red_knot/LV3_red_knot_000
+  rotate: true
+  xy: 1878, 146
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+LV3_shine_ROPE_000
+  rotate: false
+  xy: 346, 10
+  size: 271, 130
+  orig: 271, 130
+  offset: 0, 0
+  index: -1
+LV3_shine_ROPE_001
+  rotate: true
+  xy: 1785, 194
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+LV3_shine_ROPE_002
+  rotate: false
+  xy: 146, 6
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+LV3_shine_face
+  rotate: true
+  xy: 1774, 3
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+LV3_shine_ingot
+  rotate: false
+  xy: 1892, 10
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+LV3_skirt
+  rotate: true
+  xy: 619, 2
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+LV3_sq_tail/LV3_sq_tail_016_NEW
+  rotate: false
+  xy: 518, 172
+  size: 246, 306
+  orig: 246, 306
+  offset: 0, 0
+  index: -1
+lv1_Rosary
+  rotate: true
+  xy: 1627, 288
+  size: 60, 112
+  orig: 60, 112
+  offset: 0, 0
+  index: -1
+lv1_body
+  rotate: true
+  xy: 967, 16
+  size: 154, 149
+  orig: 154, 149
+  offset: 0, 0
+  index: -1
+lv1_clo
+  rotate: true
+  xy: 1118, 16
+  size: 154, 86
+  orig: 154, 86
+  offset: 0, 0
+  index: -1
+lv1_clo2
+  rotate: false
+  xy: 1673, 7
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+lv1_clo_b
+  rotate: true
+  xy: 1878, 212
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+lv1_clo_b2
+  rotate: false
+  xy: 655, 147
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+lv1_face
+  rotate: false
+  xy: 1677, 179
+  size: 106, 107
+  orig: 106, 107
+  offset: 0, 0
+  index: -1
+lv1_foot1
+  rotate: false
+  xy: 1836, 2
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+lv1_foot2
+  rotate: false
+  xy: 1741, 446
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+lv1_foot3
+  rotate: true
+  xy: 2000, 445
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+lv1_foot4
+  rotate: false
+  xy: 1568, 5
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+lv1_hand
+  rotate: true
+  xy: 1931, 181
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: -1
+lv1_ingot1_1
+  rotate: false
+  xy: 1447, 175
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+lv1_ingot2_1
+  rotate: false
+  xy: 1931, 237
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+lv1_red
+  rotate: false
+  xy: 1720, 2
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+lv1_skirt
+  rotate: true
+  xy: 1323, 285
+  size: 193, 130
+  orig: 193, 130
+  offset: 0, 0
+  index: -1
+lv1_skirt_a
+  rotate: true
+  xy: 1601, 7
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+lv1_sleeve_L
+  rotate: false
+  xy: 1931, 327
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+lv1_sleeve_R
+  rotate: true
+  xy: 1781, 62
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+lv2_tail/LV2_sq_tail_016_NEW
+  rotate: false
+  xy: 766, 172
+  size: 246, 306
+  orig: 246, 306
+  offset: 0, 0
+  index: -1
+lv2_tail/LV2_sq_tail_016_NEW_Shine
+  rotate: false
+  xy: 1014, 172
+  size: 246, 306
+  orig: 246, 306
+  offset: 0, 0
+  index: -1
+lv3_ball
+  rotate: false
+  xy: 2000, 413
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+lv3_coin_a
+  rotate: true
+  xy: 518, 142
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+lv3_coin_b
+  rotate: true
+  xy: 587, 143
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+lv3_rope_1
+  rotate: true
+  xy: 1262, 276
+  size: 202, 59
+  orig: 202, 59
+  offset: 0, 0
+  index: -1

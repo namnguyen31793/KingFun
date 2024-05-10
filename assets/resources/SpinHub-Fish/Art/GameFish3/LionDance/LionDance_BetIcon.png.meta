@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0b8a09e5-f189-43bf-8570-ca47ce4716f8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "LionDance_BetIcon": {
+      "ver": "1.0.6",
+      "uuid": "1d205466-5ee2-4562-8563-0df8680d9b7c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0b8a09e5-f189-43bf-8570-ca47ce4716f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 104,
+      "height": 104,
+      "rawWidth": 104,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

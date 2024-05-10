@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bg_Animation_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "Bg_KingCrabCave_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Aladdin_Result_MultiX2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.38333333333333336,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": []
+    },
+    "paths": {
+      "x2_Multi/Layer 11": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.4,
+                "y": 1.4
+              }
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

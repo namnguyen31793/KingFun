@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CH_JackpotView_Decor_Reset",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "UI_Jackpot_Deco_Bot": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -197,
+                -73,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "UI_Jackpot_Deco_Top": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -197,
+                73,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "UI_Jackpot_Gear": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -215,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "UI_Jackpot_Pointer_Left": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -170,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

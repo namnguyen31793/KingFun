@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "61048d17-8eb0-4ae9-b7dd-912e859cea7a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 112,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "ThangVu_TotalWin-export": {
+      "ver": "1.0.6",
+      "uuid": "a9b9fbb9-c665-4b4e-9ead-2aa3573946f1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "61048d17-8eb0-4ae9-b7dd-912e859cea7a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 109,
+      "height": 109,
+      "rawWidth": 112,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

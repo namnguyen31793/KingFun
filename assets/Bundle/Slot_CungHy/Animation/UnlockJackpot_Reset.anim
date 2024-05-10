@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "UnlockJackpot_Reset",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Lock": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "JPCell_Jackpot": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "JPCell_Lock": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

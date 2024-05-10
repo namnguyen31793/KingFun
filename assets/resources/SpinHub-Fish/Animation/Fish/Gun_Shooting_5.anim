@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Gun_Shooting_5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "M_Gunman_advanceshoot_00000": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "485d39e3-0c6f-44ca-acfc-de45a7242f3c"
+                }
+              },
+              {
+                "frame": 0.03333333333333333,
+                "value": {
+                  "__uuid__": "79edda79-0e9c-43a5-b151-d9db8167efd2"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "2b5bb0b1-98af-4b53-b897-f73ed53666e5"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "cbc90aa6-910b-41be-a285-74407977668c"
+                }
+              },
+              {
+                "frame": 0.13333333333333333,
+                "value": {
+                  "__uuid__": "c80244ea-9292-444c-a985-06268d632bb4"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "58de22d8-a83e-454c-9625-fe1971fca52e"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "be9a2e29-83cb-4d24-938e-6fd0e28670b2"
+                }
+              },
+              {
+                "frame": 0.23333333333333334,
+                "value": {
+                  "__uuid__": "8b26eebd-887b-46f8-9047-a33945653518"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

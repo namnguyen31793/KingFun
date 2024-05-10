@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f4f63431-d1bd-4598-a456-c0d90e9b3fce",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 248,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "Buddha_AccumulatedBoard_G": {
+      "ver": "1.0.6",
+      "uuid": "ceae76af-b464-4b0d-9d95-26916258ca23",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f4f63431-d1bd-4598-a456-c0d90e9b3fce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 246,
+      "height": 88,
+      "rawWidth": 248,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

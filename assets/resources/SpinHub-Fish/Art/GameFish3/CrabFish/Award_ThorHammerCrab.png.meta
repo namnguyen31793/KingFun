@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d2f0bb97-fa6a-45d6-978d-8bf07ca79998",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 187,
+  "height": 215,
+  "platformSettings": {},
+  "subMetas": {
+    "Award_ThorHammerCrab": {
+      "ver": "1.0.6",
+      "uuid": "fa3c9ab0-a5c8-49ad-ac9e-f3f6a19e8143",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d2f0bb97-fa6a-45d6-978d-8bf07ca79998",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 186,
+      "height": 215,
+      "rawWidth": 187,
+      "rawHeight": 215,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

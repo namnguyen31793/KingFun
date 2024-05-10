@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Drill",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1e71f176-29e5-41f0-a885-6b205f719b38"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "27d7578b-38ed-4beb-a1ff-f0a400f05c86"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

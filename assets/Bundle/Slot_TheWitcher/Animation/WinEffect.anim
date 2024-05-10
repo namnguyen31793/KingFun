@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "WinEffect",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ff42d763-07e2-49ef-bfc0-08c0aeb4178e"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "8b6e26f2-8ac9-461c-9217-86656aee2703"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d51c49d7-e9d4-40b8-986a-77d75e2236f8"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "915bd6a5-a958-4e6a-91cb-ee61ecc11065"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e42ebef8-9671-45a7-95eb-6f65e23f972c"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "00bd5304-b6b4-45ac-ba53-343f2d2ff7a1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

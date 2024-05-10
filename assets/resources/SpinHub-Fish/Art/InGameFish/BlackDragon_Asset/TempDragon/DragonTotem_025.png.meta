@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8ae0798d-692b-4cce-b1dc-6e368d8b5bfb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 135,
+  "platformSettings": {},
+  "subMetas": {
+    "DragonTotem_025": {
+      "ver": "1.0.6",
+      "uuid": "22a74676-f38a-4a3f-98a6-f477ac2505c9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8ae0798d-692b-4cce-b1dc-6e368d8b5bfb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -1.5,
+      "trimX": 14,
+      "trimY": 16,
+      "width": 68,
+      "height": 106,
+      "rawWidth": 92,
+      "rawHeight": 135,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

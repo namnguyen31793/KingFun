@@ -1,0 +1,216 @@
+
+Spine_GunAnubis.png
+size: 1124, 208
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back_1
+  rotate: false
+  xy: 941, 2
+  size: 72, 82
+  orig: 74, 84
+  offset: 1, 1
+  index: -1
+back_1_light
+  rotate: false
+  xy: 1015, 24
+  size: 32, 64
+  orig: 36, 68
+  offset: 1, 2
+  index: -1
+back_2_Base_D
+  rotate: true
+  xy: 1096, 4
+  size: 35, 26
+  orig: 36, 26
+  offset: 1, 0
+  index: -1
+back_2_Base_U
+  rotate: true
+  xy: 448, 10
+  size: 35, 30
+  orig: 36, 30
+  offset: 1, 0
+  index: -1
+back_2_D
+  rotate: true
+  xy: 1049, 24
+  size: 64, 30
+  orig: 66, 31
+  offset: 1, 0
+  index: -1
+back_2_D_Light
+  rotate: false
+  xy: 1015, 2
+  size: 50, 20
+  orig: 75, 24
+  offset: 14, 0
+  index: -1
+back_2_M
+  rotate: false
+  xy: 374, 9
+  size: 72, 36
+  orig: 73, 37
+  offset: 1, 0
+  index: -1
+back_2_M_Light
+  rotate: true
+  xy: 1081, 41
+  size: 53, 28
+  orig: 55, 29
+  offset: 1, 1
+  index: -1
+back_2_U
+  rotate: false
+  xy: 671, 4
+  size: 73, 55
+  orig: 73, 56
+  offset: 0, 1
+  index: -1
+back_2_U_Light
+  rotate: true
+  xy: 816, 4
+  size: 64, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 2, 5
+  size: 220, 201
+  orig: 222, 203
+  offset: 1, 1
+  index: -1
+circle
+  rotate: false
+  xy: 343, 7
+  size: 29, 37
+  orig: 31, 39
+  offset: 1, 1
+  index: -1
+circle_light
+  rotate: true
+  xy: 1067, 9
+  size: 13, 27
+  orig: 16, 29
+  offset: 1, 1
+  index: -1
+cloth
+  rotate: false
+  xy: 1066, 96
+  size: 50, 110
+  orig: 50, 110
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 513, 58
+  size: 148, 125
+  orig: 150, 127
+  offset: 1, 1
+  index: -1
+collar_light
+  rotate: true
+  xy: 1013, 90
+  size: 116, 51
+  orig: 120, 55
+  offset: 1, 1
+  index: -1
+ear
+  rotate: false
+  xy: 457, 52
+  size: 54, 154
+  orig: 56, 156
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 619, 3
+  size: 50, 53
+  orig: 64, 64
+  offset: 13, 5
+  index: -1
+face
+  rotate: false
+  xy: 733, 70
+  size: 112, 136
+  orig: 114, 138
+  offset: 1, 1
+  index: -1
+face_light
+  rotate: false
+  xy: 746, 2
+  size: 68, 66
+  orig: 76, 74
+  offset: 4, 4
+  index: -1
+gun_mid
+  rotate: true
+  xy: 931, 86
+  size: 120, 80
+  orig: 122, 82
+  offset: 1, 1
+  index: -1
+gun_side
+  rotate: false
+  xy: 362, 47
+  size: 93, 159
+  orig: 95, 161
+  offset: 1, 1
+  index: -1
+gun_side_light
+  rotate: false
+  xy: 847, 74
+  size: 82, 132
+  orig: 88, 138
+  offset: 3, 3
+  index: -1
+gun_side_light_2
+  rotate: false
+  xy: 306, 7
+  size: 35, 37
+  orig: 41, 41
+  offset: 3, 2
+  index: -1
+hand
+  rotate: true
+  xy: 640, 61
+  size: 145, 91
+  orig: 147, 93
+  offset: 1, 1
+  index: -1
+shoulder
+  rotate: true
+  xy: 224, 46
+  size: 160, 136
+  orig: 160, 137
+  offset: 0, 1
+  index: -1
+shoulder_D
+  rotate: true
+  xy: 865, 5
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+shoulder_light
+  rotate: false
+  xy: 224, 6
+  size: 80, 38
+  orig: 83, 41
+  offset: 1, 2
+  index: -1
+word
+  rotate: true
+  xy: 480, 2
+  size: 48, 65
+  orig: 50, 67
+  offset: 1, 1
+  index: -1
+word_light
+  rotate: true
+  xy: 547, 2
+  size: 54, 70
+  orig: 56, 74
+  offset: 1, 2
+  index: -1

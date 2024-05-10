@@ -1,0 +1,151 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CH_ColumnStop_B1_Up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "item_3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "item_4": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -150
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "item_5": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -300
+            },
+            {
+              "frame": 0.2,
+              "value": -150
+            }
+          ]
+        }
+      },
+      "item_6": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -450
+            },
+            {
+              "frame": 0.2,
+              "value": -300
+            }
+          ]
+        }
+      },
+      "item_7": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -600
+            },
+            {
+              "frame": 0.2,
+              "value": -450
+            }
+          ]
+        }
+      },
+      "item_8": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 600
+            },
+            {
+              "frame": 0.2,
+              "value": -600
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.2,
+              "value": true
+            }
+          ]
+        }
+      },
+      "item_0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 450
+            },
+            {
+              "frame": 0.2,
+              "value": 600
+            }
+          ]
+        }
+      },
+      "item_1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 300
+            },
+            {
+              "frame": 0.2,
+              "value": 450
+            }
+          ]
+        }
+      },
+      "item_2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 150
+            },
+            {
+              "frame": 0.2,
+              "value": 300
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

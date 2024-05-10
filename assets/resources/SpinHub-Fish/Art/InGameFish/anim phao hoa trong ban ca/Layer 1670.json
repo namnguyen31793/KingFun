@@ -1,0 +1,458 @@
+{
+"skeleton": {
+	"hash": "fem+QAbYpi5ve15Ok8FcLc8Dbo0",
+	"spine": "3.8.99",
+	"x": -869.12,
+	"y": -524.28,
+	"width": 1788.61,
+	"height": 1060.1,
+	"images": "./images/",
+	"audio": "C:/Users/Admin/Desktop/anim phao hoa"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 2.28, "y": -139.71 },
+	{ "name": "phao hoa", "parent": "bone", "x": -244.66, "y": 292.3 },
+	{ "name": "phao hoa2", "parent": "bone", "x": 339.24, "y": -223.1, "scaleX": 0.7421, "scaleY": 0.7421 },
+	{ "name": "phao hoa3", "parent": "bone", "x": -664.2, "y": 427.87, "scaleX": 1.8783, "scaleY": 1.8783 },
+	{ "name": "phao hoa4", "parent": "bone", "x": 675.23, "y": 426.04, "scaleX": 2.2714, "scaleY": 2.2714 },
+	{ "name": "phao hoa5", "parent": "bone", "x": 373.35, "y": 165.76, "scaleX": 1.1441, "scaleY": 1.1441 },
+	{ "name": "phao hoa6", "parent": "bone", "x": -244.66, "y": 24.81, "scaleX": 3.2484, "scaleY": 3.2484 },
+	{ "name": "phao hoa7", "parent": "bone", "x": 711.91, "y": -177.78, "scaleX": 1.9636, "scaleY": 1.9636 },
+	{ "name": "phao hoa8", "parent": "bone", "x": 138.08, "y": 389.92, "scaleX": 2.4428, "scaleY": 2.4428 },
+	{ "name": "phao hoa9", "parent": "bone", "x": 453.92, "y": 450.3, "scaleX": 1.4813, "scaleY": 1.4813 },
+	{ "name": "phao hoa10", "parent": "bone", "x": -225.94, "y": 478, "scaleX": 1.4813, "scaleY": 1.4813 },
+	{ "name": "phao hoa11", "parent": "bone", "x": -553.4, "y": 150.89, "scaleX": 2.4557, "scaleY": 2.4557 },
+	{ "name": "phao hoa12", "parent": "bone", "x": 152.91, "y": 6.04, "scaleX": 1.675, "scaleY": 1.675 },
+	{ "name": "phao hoa13", "parent": "bone", "x": 575.93, "y": 106.76, "scaleX": 1.675, "scaleY": 1.675 },
+	{ "name": "phao hoa14", "parent": "bone", "x": 32.05, "y": -215.55, "scaleX": 1.7131, "scaleY": 1.7131 },
+	{ "name": "phao hoa15", "parent": "bone", "x": 412.26, "y": -46.84, "scaleX": 2.5435, "scaleY": 2.5435 },
+	{ "name": "phao hoa16", "parent": "bone", "x": -437.58, "y": -171.41, "scaleX": 1.8313, "scaleY": 1.8313 },
+	{ "name": "phao hoa17", "parent": "bone", "x": -767.43, "y": -80.77, "scaleX": 0.9585, "scaleY": 0.9585 }
+],
+"slots": [
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6", "bone": "phao hoa", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd7", "bone": "phao hoa2", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd17", "bone": "phao hoa12", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd18", "bone": "phao hoa13", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd19", "bone": "phao hoa14", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd20", "bone": "phao hoa15", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd12", "bone": "phao hoa7", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd8", "bone": "phao hoa3", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd16", "bone": "phao hoa11", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd21", "bone": "phao hoa16", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd22", "bone": "phao hoa17", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd9", "bone": "phao hoa4", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd11", "bone": "phao hoa6", "attachment": "2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd13", "bone": "phao hoa8", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd10", "bone": "phao hoa5", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd14", "bone": "phao hoa9", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" },
+	{ "name": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd15", "bone": "phao hoa10", "attachment": "84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd7": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd8": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd9": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd10": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd11": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": 20.74, "y": 22.49, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd12": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd13": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd14": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd15": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd16": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd17": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd18": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd19": {
+				"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": { "x": -0.97, "y": 2.34, "width": 206, "height": 202 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd20": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd21": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd22": {
+				"2b92b6a06d06b7e63240b5801bce6c3f8f00f030113f1-zu3A1b_fw1200 (1)": { "x": -0.97, "y": 2.34, "width": 215, "height": 215 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd6": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4333, "color": "ffffff00" },
+					{ "time": 0.7667, "color": "ffffffff" },
+					{ "time": 1.6333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd7": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff" },
+					{ "time": 2.0333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd8": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.7, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd9": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd10": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.0333, "color": "ffffff00" },
+					{ "time": 1.3667, "color": "ffffffff" },
+					{ "time": 2.2333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd11": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.7667, "color": "ffffff00" },
+					{ "time": 1.1, "color": "ffffffff" },
+					{ "time": 1.9667, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd12": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 1.4333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd13": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd14": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd15": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 1.4667, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd16": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.1333, "color": "ffffff00" },
+					{ "time": 1.4667, "color": "ffffffff" },
+					{ "time": 2.0667, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd17": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6333, "color": "ffffff00" },
+					{ "time": 0.8667, "color": "ffffffff" },
+					{ "time": 1.6333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd18": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd19": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1.5333, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd20": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.7333, "color": "ffffff00" },
+					{ "time": 1.1, "color": "ffffffff" },
+					{ "time": 1.7, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd21": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.7667, "color": "ffffff00" },
+					{ "time": 1.1333, "color": "ffffffff" },
+					{ "time": 1.7, "color": "ffffff00" }
+				]
+			},
+			"84b879dc18ac76d4fa72556a8f73f39ce5864fde4da33-9LKmd22": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.3667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"phao hoa": {
+				"translate": [
+					{ "time": 0.7667 },
+					{ "time": 1.6333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.7667 },
+					{ "time": 1.6333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa2": {
+				"translate": [
+					{ "time": 1.1667 },
+					{ "time": 2.0333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 1.1667 },
+					{ "time": 2.0333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa3": {
+				"translate": [
+					{ "time": 0.8333 },
+					{ "time": 1.7, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 },
+					{ "time": 0.8333 },
+					{ "time": 1.7, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa4": {
+				"translate": [
+					{ "time": 0.6 },
+					{ "time": 1.4667, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.6 },
+					{ "time": 1.4667, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa5": {
+				"translate": [
+					{ "time": 1.3667 },
+					{ "time": 2.2333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.0333, "x": 0, "y": 0 },
+					{ "time": 1.3667 },
+					{ "time": 2.2333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa6": {
+				"translate": [
+					{ "time": 1.1 },
+					{ "time": 1.9667, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 0 },
+					{ "time": 1.1 },
+					{ "time": 1.9667, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa7": {
+				"translate": [
+					{ "time": 0.7 },
+					{ "time": 1.4333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.7 },
+					{ "time": 1.4333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa8": {
+				"translate": [
+					{ "time": 0.7 },
+					{ "time": 1.3333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.7 },
+					{ "time": 1.3333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa9": {
+				"translate": [
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa10": {
+				"translate": [
+					{ "time": 0.7 },
+					{ "time": 1.4667, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 },
+					{ "time": 0.7 },
+					{ "time": 1.4667, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa11": {
+				"translate": [
+					{ "time": 1.4667 },
+					{ "time": 2.0667, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.4667 },
+					{ "time": 2.0667, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa12": {
+				"translate": [
+					{ "time": 0.8667 },
+					{ "time": 1.6333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6333, "x": 0, "y": 0 },
+					{ "time": 0.8667 },
+					{ "time": 1.6333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa13": {
+				"translate": [
+					{ "time": 0.4333 },
+					{ "time": 1.3, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.4333 },
+					{ "time": 1.3, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa14": {
+				"translate": [
+					{ "time": 0.6667 },
+					{ "time": 1.5333, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.6667 },
+					{ "time": 1.5333, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa15": {
+				"translate": [
+					{ "time": 1.1 },
+					{ "time": 1.7, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 1.1 },
+					{ "time": 1.7, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa16": {
+				"translate": [
+					{ "time": 1.1333 },
+					{ "time": 1.7, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 0 },
+					{ "time": 1.1333 },
+					{ "time": 1.7, "x": 1.417, "y": 1.417 }
+				]
+			},
+			"phao hoa17": {
+				"translate": [
+					{ "time": 0.5 },
+					{ "time": 1.3667, "y": 13.57 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{ "time": 0.5 },
+					{ "time": 1.3667, "x": 1.417, "y": 1.417 }
+				]
+			}
+		}
+	}
+}
+}

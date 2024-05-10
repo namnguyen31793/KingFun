@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EffectBoom",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "48017d8e-45e4-45e7-8bf2-68b261af3f08"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c88e0822-9bfb-4f0a-a3d0-c4934ce44b5a"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "7fc37167-cf43-44c2-8e79-db55c2117317"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "4ffb18d3-af7a-4273-9831-d66fd132b32d"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "5a5ad918-1dfb-4852-aa6a-93c566d5d8cd"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "c73c40c5-2cec-43c5-bd77-7f591575f16e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

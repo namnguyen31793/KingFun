@@ -1,0 +1,48 @@
+
+fish_20001.png
+size: 403,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_01_q
+  rotate: true
+  xy: 230, 15
+  size: 84, 26
+  orig: 84, 26
+  offset: 0, 0
+  index: -1
+idle_02_shadow
+  rotate: false
+  xy: 258, 65
+  size: 102, 34
+  orig: 108, 49
+  offset: 6, 0
+  index: -1
+idle_03_body
+  rotate: false
+  xy: 2, 2
+  size: 226, 97
+  orig: 226, 97
+  offset: 0, 0
+  index: -1
+idle_04_coin
+  rotate: false
+  xy: 258, 13
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+idle_05
+  rotate: true
+  xy: 309, 15
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+idle_06
+  rotate: false
+  xy: 354, 17
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+Spine_GunZhaoYun.png
+size: 915, 1031
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Golden_armor_ Shoulder_Plate_L
+  rotate: false
+  xy: 793, 308
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+Golden_armor_Breastplate_L
+  rotate: false
+  xy: 307, 198
+  size: 266, 418
+  orig: 266, 418
+  offset: 0, 0
+  index: -1
+Golden_armor_Cord_L
+  rotate: true
+  xy: 575, 392
+  size: 189, 187
+  orig: 189, 187
+  offset: 0, 0
+  index: -1
+Golden_armor_Core_L
+  rotate: true
+  xy: 478, 2
+  size: 194, 235
+  orig: 194, 235
+  offset: 0, 0
+  index: -1
+Golden_armor_Gun_Detail_01_L
+  rotate: false
+  xy: 793, 225
+  size: 116, 81
+  orig: 116, 81
+  offset: 0, 0
+  index: -1
+Golden_armor_Gun_Detail_02_L
+  rotate: false
+  xy: 767, 647
+  size: 137, 224
+  orig: 138, 314
+  offset: 1, 90
+  index: -1
+Golden_armor_Gun_L
+  rotate: false
+  xy: 575, 583
+  size: 190, 262
+  orig: 190, 262
+  offset: 0, 0
+  index: -1
+Golden_armor_Head_Shoulder_L
+  rotate: true
+  xy: 366, 642
+  size: 203, 207
+  orig: 203, 207
+  offset: 0, 0
+  index: -1
+Golden_armor_Pauldrons_L
+  rotate: true
+  xy: 2, 325
+  size: 291, 303
+  orig: 291, 303
+  offset: 0, 0
+  index: -1
+Golden_armor_acc
+  rotate: false
+  xy: 230, 2
+  size: 246, 194
+  orig: 246, 194
+  offset: 0, 0
+  index: -1
+Golden_armor_head
+  rotate: true
+  xy: 2, 618
+  size: 411, 362
+  orig: 411, 362
+  offset: 0, 0
+  index: -1
+Golden_armor_mouth
+  rotate: true
+  xy: 825, 120
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+Golden_armor_nose
+  rotate: false
+  xy: 764, 421
+  size: 131, 160
+  orig: 131, 160
+  offset: 0, 0
+  index: -1
+Ice_Mist_FX
+  rotate: false
+  xy: 709, 873
+  size: 176, 156
+  orig: 176, 156
+  offset: 0, 0
+  index: -1
+Light_Channel_Armor_L
+  rotate: false
+  xy: 767, 586
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Light_Channel_Beast_Head_Armor_L
+  rotate: false
+  xy: 825, 88
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+Light_Channel_Breastplate_L
+  rotate: false
+  xy: 2, 4
+  size: 226, 319
+  orig: 226, 319
+  offset: 0, 0
+  index: -1
+Light_Channel_Gun_Detail_L
+  rotate: false
+  xy: 230, 198
+  size: 61, 125
+  orig: 61, 125
+  offset: 0, 0
+  index: -1
+Light_Channel_Gun_L
+  rotate: true
+  xy: 715, 4
+  size: 47, 122
+  orig: 47, 122
+  offset: 0, 0
+  index: -1
+Light_Channel_Head_01
+  rotate: true
+  xy: 366, 847
+  size: 182, 341
+  orig: 182, 341
+  offset: 0, 0
+  index: -1
+Light_Channel_Head_02
+  rotate: true
+  xy: 575, 211
+  size: 179, 216
+  orig: 179, 216
+  offset: 0, 0
+  index: -1
+Light_Channel_Head_03
+  rotate: false
+  xy: 828, 591
+  size: 80, 54
+  orig: 83, 54
+  offset: 3, 0
+  index: -1
+Light_Channel_Shoulder_Armor_L
+  rotate: false
+  xy: 715, 53
+  size: 108, 156
+  orig: 111, 165
+  offset: 3, 4
+  index: -1

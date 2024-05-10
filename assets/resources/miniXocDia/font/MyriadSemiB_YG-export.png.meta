@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d0564477-9013-4145-98ba-e9ec97281b70",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 207,
+  "height": 208,
+  "platformSettings": {},
+  "subMetas": {
+    "MyriadSemiB_YG-export": {
+      "ver": "1.0.6",
+      "uuid": "c167816f-100e-4a4c-a9f2-bedc0d634961",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d0564477-9013-4145-98ba-e9ec97281b70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 206,
+      "height": 207,
+      "rawWidth": 207,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

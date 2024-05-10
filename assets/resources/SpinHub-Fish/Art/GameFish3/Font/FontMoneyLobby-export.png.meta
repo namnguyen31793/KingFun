@@ -1,0 +1,50 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dd6845da-bc4a-423a-b79e-97eecd2dfeb0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 64,
+  "platformSettings": {
+    "web": {
+      "formats": []
+    },
+    "android": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "FontMoneyLobby-export": {
+      "ver": "1.0.6",
+      "uuid": "659c22f8-4f28-4577-9b4d-1122e1fd55e4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dd6845da-bc4a-423a-b79e-97eecd2dfeb0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -20,
+      "offsetY": 4.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 88,
+      "height": 55,
+      "rawWidth": 128,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+"skeleton": {
+	"hash": "VU97BFhM9HGDT54/QPE+A5OlNRM",
+	"spine": "3.8.75",
+	"x": -1,
+	"y": -201,
+	"width": 202,
+	"height": 202,
+	"images": "./images/",
+	"audio": "E:/GAME BAI 2/MRMONO/ICON ĐỘNG/ICON ĐỘNG/CÂU CÁ ĐỘC ĐẮC"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "text", "parent": "root", "x": 103.11, "y": -147.88 },
+	{ "name": "text2", "parent": "root", "x": 103.11, "y": -147.88 }
+],
+"slots": [
+	{ "name": "BR", "bone": "root", "attachment": "BR" },
+	{ "name": "text", "bone": "text", "attachment": "text" },
+	{ "name": "text2", "bone": "text2", "dark": "000000", "attachment": "text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BR": {
+				"BR": { "x": 100, "y": -100, "width": 202, "height": 202 }
+			},
+			"text2": {
+				"text": { "x": -3.11, "y": -2.12, "width": 202, "height": 102 }
+			},
+			"text": {
+				"text": { "x": -3.11, "y": -2.12, "width": 202, "height": 102 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"text2": {
+				"twoColor": [
+					{ "time": 0.5, "light": "ffffffff", "dark": "000000" },
+					{ "time": 0.7333, "light": "ffffffff", "dark": "ec69ff" },
+					{ "time": 1, "light": "ffffff00", "dark": "000000" }
+				]
+			}
+		},
+		"bones": {
+			"text": {
+				"translate": [
+					{},
+					{ "time": 0.1333, "y": 17.6 },
+					{ "time": 0.2333 },
+					{ "time": 0.3667, "y": 17.6 },
+					{ "time": 0.5 }
+				]
+			},
+			"text2": {
+				"translate": [
+					{},
+					{ "time": 0.1333, "y": 17.6 },
+					{ "time": 0.2333 },
+					{ "time": 0.3667, "y": 17.6 },
+					{ "time": 0.5 }
+				],
+				"scale": [
+					{ "time": 0.5 },
+					{ "time": 1, "x": 1.172, "y": 1.172 }
+				]
+			}
+		}
+	}
+}
+}

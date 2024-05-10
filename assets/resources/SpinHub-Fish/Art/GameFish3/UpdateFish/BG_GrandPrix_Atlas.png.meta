@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b8913b82-870a-4df2-92ff-e5d8eca32b0f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "BG_GrandPrix_Atlas": {
+      "ver": "1.0.6",
+      "uuid": "a36f098a-f381-41cf-b67b-351bdc6c77e5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b8913b82-870a-4df2-92ff-e5d8eca32b0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -32,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 960,
+      "height": 1022,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FireGunVip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "25097e86-76dc-478d-9c2b-e938abb12ee0"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "0160eb3c-20bb-43fd-89fb-18bba1be2905"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "86115f53-ba44-4d21-87ec-ba6ef4f7c466"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,1450 @@
+{
+        "Steps": [         
+            {
+                "command": "_activeBet",
+                "data": {
+                    "active": false
+                }
+            },
+            {
+                "command": "showMuaVatPhamPopup"
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ON_SHOW_EXTRA_BET_DIALOG"
+                    ]
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/popupSlotsView/MuaBieuTuong/ButtonCollection/BuySymbols_1"
+                }
+            },         
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_1",
+                    "position": {
+                        "x": 200,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 90,
+                    "position": {
+                        "x": -180,
+                        "y": -200
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "SELECT_SYMBOL"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },        
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/popupSlotsView/MuaBieuTuong/JackpotTip/MinorJackpot"
+                }
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_2",
+                    "position": {
+                        "x": -255,
+                        "y": 70
+                    },
+                    "arrow": {
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "x": -60,
+                        "y": -114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_3",
+                    "position": {
+                        "x": 0,
+                        "y": 70
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 0,
+                        "y": -150
+                    }
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/popupSlotsView/MuaBieuTuong/CloseBtn"
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "JOIN_GAME_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/ChonMuaItem/TangCuoc_Btn"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_4",
+                    "position": {
+                        "x": -150,
+                        "y": 60
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": -200,
+                        "y": -150
+                    }
+                }
+            },
+            {
+                "command": "_activeExtraBet",
+                "data": {
+                    "active": true
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "EXTRA_BET_INCREASE"
+                    ]
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "EXTRA_BET_INCREASE"
+                    ]
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "EXTRA_BET_INCREASE"
+                    ]
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "EXTRA_BET_INCREASE"
+                    ]
+                }
+            },           
+            {
+                "command": "_activeExtraBet",
+                "data": {
+                    "active": false
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_5",
+                    "position": {
+                        "x": 230,
+                        "y": -140
+                    },
+                    "arrow": {
+                        "angle": -90,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "x": -239,
+                        "y": -60
+                    },
+                    "arrow2": {
+                        "angle": 90,
+                        "scaleX": -1,
+                        "scaleY": 1,
+                        "x": 239,
+                        "y": 50
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/ChonCuoc/TangCuoc_Btn"
+                }
+            },
+            {
+                "command": "_activeBet",
+                "data": {
+                    "active": true
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_6",
+                    "position": {
+                        "x": 300,
+                        "y": 60
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 300,
+                        "y": -150
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "BET_INCREASE"
+                    ]
+                }
+            },
+            {
+                "command": "_forceSetBetValue",
+                "data": "5"
+            },
+            {
+                "command": "_updateJackpot"
+            },
+            {
+                "command": "_activeBet",
+                "data": {
+                    "active": false
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_enableButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/SieuToc_Toggle"
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/SieuToc_Toggle"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_7",
+                    "position": {
+                        "x": 350,
+                        "y": 60
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 416,
+                        "y": -150
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TURBO_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_disableButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/SieuToc_Toggle"
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/Quay_Button"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_8",
+                    "position": {
+                        "x": 400,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 550,
+                        "y": -70
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "SPIN_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "GAME_RESET_SESSION"
+                    ]
+                }
+            },           
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_9",
+                    "position": {
+                        "x": 0,
+                        "y": -40
+                    },
+                    "arrow": {
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "x": -30,
+                        "y": -114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/top-bar/JackpotInfo"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_10",
+                    "position": {
+                        "x": -150,
+                        "y": 50
+                    },
+                    "arrow": {
+                        "angle": 0,
+                        "scaleX": 1,
+                        "scaleY": -1,
+                        "x": -80,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/Quay_Button"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_17",
+                    "position": {
+                        "x": 400,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 550,
+                        "y": -70
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "SPIN_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ON_UPDATE_PERCENT_JACKPOT"
+                    ]
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/KhungContent/khungView/spinView/slots/cot_3/item_2"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_11",
+                    "position": {
+                        "x": -10,
+                        "y": -220
+                    },
+                    "arrow": {
+                        "scaleX": -1,
+                        "scaleY": -1,
+                        "x": 30,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/Quay_Button"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_12",
+                    "position": {
+                        "x": 400,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 550,
+                        "y": -70
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "SPIN_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ENTER_GAME_MODE"
+                    ]
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_13",
+                    "position": {
+                        "x": 0,
+                        "y": -230
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 90,
+                    "position": {
+                        "x": -400,
+                        "y": 0
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK",
+                        "MINIGAME_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_addBoolFlag",
+                "data": {
+                    "flag": "pauseMinigame"
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ON_FINISH_MINIGAME"
+                    ]
+                }
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_14",
+                    "position": {
+                        "x": 0,
+                        "y": -230
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_removeBoolFlag",
+                "data": {
+                    "flag": "pauseMinigame"
+                }
+            },
+            {
+                "command": "_resumeCurrentScript"
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "GAME_RESET_SESSION"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/Quay_Button"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_17",
+                    "position": {
+                        "x": 400,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 550,
+                        "y": -70
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "SPIN_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_addBoolFlag",
+                "data": {
+                    "flag": "pauseFreeSpinOption"
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ON_FINISH_SCATTER_PAYLINE"
+                    ]
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_18",
+                    "position": {
+                        "x": 0,
+                        "y": -220
+                    },
+                    "arrow": {
+                        "scaleX": -1,
+                        "scaleY": -1,
+                        "x": 30,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_removeBoolFlag",
+                "data": {
+                    "flag": "pauseFreeSpinOption"
+                }
+            },
+            {
+                "command": "_resumeCurrentScript"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ON_ENTER_FREEGAME_OPTION"
+                    ]
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/ChonCachChoi/FreeTopup"
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_19",
+                    "position": {
+                        "x": 420,
+                        "y": 150
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": -90,
+                    "position": {
+                        "x": 300,
+                        "y": -30
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "FREEGAME_OPTION_SELECT"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_addBoolFlag",
+                "data": {
+                    "flag": "pauseTopUp"
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ENTER_GAME_MODE"
+                    ]
+                }
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_20",
+                    "position": {
+                        "x": -160,
+                        "y": 50
+                    },
+                    "arrow": {
+                        "angle": 0,
+                        "scaleX": -1,
+                        "scaleY": -1,
+                        "x": -100,
+                        "y": 114
+                    },
+                    "arrow2": {
+                        "scaleX": 1,
+                        "scaleY": -1,
+                        "x": 110,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_20_1",
+                    "position": {
+                        "x": 180,
+                        "y": 50
+                    },
+                    "arrow": {
+                        "angle": 0,
+                        "scaleX": 1,
+                        "scaleY": -1,
+                        "x": -40,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_20_2",
+                    "position": {
+                        "x": 220,
+                        "y": 50
+                    },
+                    "arrow": {
+                        "angle": 0,
+                        "scaleX": 1,
+                        "scaleY": -1,
+                        "x": 100,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_20_3",
+                    "position": {
+                        "x": 0,
+                        "y": -100
+                    },
+                    "arrow": {
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "x": -50,
+                        "y": -114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_removeBoolFlag",
+                "data": {
+                    "flag": "pauseTopUp"
+                }
+            },
+            {
+                "command": "_resumeCurrentScript"
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "GAME_RESET_SESSION"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/Quay_Button"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_17",
+                    "position": {
+                        "x": 400,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 550,
+                        "y": -70
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "SPIN_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ON_ENTER_FREEGAME_OPTION"
+                    ]
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/ChonCachChoi/Free8Btn"
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_21",
+                    "position": {
+                        "x": -420,
+                        "y": 150
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 90,
+                    "position": {
+                        "x": -320,
+                        "y": -60
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "FREEGAME_OPTION_SELECT"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_addBoolFlag",
+                "data": {
+                    "flag": "pauseFreeGame"
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "ENTER_GAME_MODE"
+                    ]
+                }
+            },
+            {
+                "command": "_lockTouch",
+                "data": {
+                    "gradient": false
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_22",
+                    "position": {
+                        "x": -340,
+                        "y": 240
+                    },
+                    "arrow": {
+                        "angle": 90,
+                        "scaleX": 1,
+                        "scaleY": 1,
+                        "x": 239,
+                        "y": 0
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_22_1",
+                    "position": {
+                        "x": 380,
+                        "y": 50
+                    },
+                    "arrow": {
+                        "angle": 0,
+                        "scaleX": 1,
+                        "scaleY": -1,
+                        "x": -40,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_22_2",
+                    "position": {
+                        "x": 250,
+                        "y": -180
+                    },
+                    "arrow": {
+                        "angle": 90,
+                        "scaleX": -1,
+                        "scaleY": 1,
+                        "x": 239,
+                        "y": 50
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_22_3",
+                    "position": {
+                        "x": 180,
+                        "y": 50
+                    },
+                    "arrow": {
+                        "angle": 0,
+                        "scaleX": 1,
+                        "scaleY": -1,
+                        "x": -40,
+                        "y": 114
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "TUTORIAL_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_removeBoolFlag",
+                "data": {
+                    "flag": "pauseFreeGame"
+                }
+            },
+            {
+                "command": "_resumeCurrentScript"
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "GAME_RESET_SESSION"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockTouch"
+            },
+            {
+                "command": "_removeBoolFlag",
+                "data": {
+                    "flag": "pauseAutoSpin"
+                }
+            },
+            {
+                "command": "_lockAtButton",
+                "data": {
+                    "objPath": "Canvas/TuLinh_View/slotsView/bot-bar/Quay_Button"
+                }
+            },
+            {
+                "command": "_showDialog",
+                "data": {
+                    "title": "",
+                    "content": "DES_TUTORIAL_23",
+                    "position": {
+                        "x": 400,
+                        "y": 140
+                    }
+                }
+            },
+            {
+                "command": "_showIndicator",
+                "data": {
+                    "rotation": 0,
+                    "position": {
+                        "x": 550,
+                        "y": -70
+                    }
+                }
+            },
+            {
+                "command": "_waitFor",
+                "data": {
+                    "trigger": [
+                        "AUTO_SPIN_CLICK",
+                        "TUTORIAL_CLICK",
+                        "SPIN_CLICK"
+                    ]
+                }
+            },
+            {
+                "command": "_unlockButton"
+            },
+            {
+                "command": "_hideIndicator"
+            },
+            {
+                "command": "_hideDialog"
+            },
+            {
+                "command": "_unlockTouch"
+            }
+        ]
+ }
+    

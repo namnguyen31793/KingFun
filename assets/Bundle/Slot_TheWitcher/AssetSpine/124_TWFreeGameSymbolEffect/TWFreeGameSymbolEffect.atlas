@@ -1,0 +1,27 @@
+
+TWFreeGameSymbolEffect.png
+size: 175,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 111, 2
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Light Circle
+  rotate: false
+  xy: 111, 49
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Magic Circle
+  rotate: false
+  xy: 2, 4
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1

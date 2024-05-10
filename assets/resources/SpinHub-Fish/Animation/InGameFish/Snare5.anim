@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Snare5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "68d5e561-7117-4017-b950-77cb3c5878bd"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d71b27d3-8c80-4b52-9023-deecf4d79720"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "fa393962-3ca3-4bc6-a471-ff646787229d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "7782768a-56c8-4fd6-afed-aba7706b38c0"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "490bb436-d6e6-4f93-8131-5785db36c6dd"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "68d5e561-7117-4017-b950-77cb3c5878bd"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.4,
+          "value": 255
+        },
+        {
+          "frame": 0.6,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

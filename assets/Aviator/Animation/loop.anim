@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.12,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "chart_blue": {
+        "comps": {},
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 250
+            },
+            {
+              "frame": 0.25,
+              "value": 208
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 289
+            },
+            {
+              "frame": 1,
+              "value": 250
+            }
+          ]
+        }
+      },
+      "posPlane": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                272,
+                87,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                272,
+                33.269,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                272,
+                127.299,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                272,
+                85.71045600001881,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

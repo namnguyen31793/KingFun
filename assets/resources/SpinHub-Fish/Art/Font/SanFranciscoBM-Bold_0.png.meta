@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "92ca6e23-0a05-4efe-a597-38f59b18103c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "SanFranciscoBM-Bold_0": {
+      "ver": "1.0.6",
+      "uuid": "9f4ce66e-ad0e-4124-a0ea-971fe6d2a3ec",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "92ca6e23-0a05-4efe-a597-38f59b18103c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 98.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 511,
+      "height": 315,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

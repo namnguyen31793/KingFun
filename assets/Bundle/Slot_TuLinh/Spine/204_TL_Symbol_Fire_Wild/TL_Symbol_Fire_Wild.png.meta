@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "deb4a24b-f4a7-49c5-a59f-ac179c891cd7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 479,
+  "height": 448,
+  "platformSettings": {},
+  "subMetas": {
+    "TL_Symbol_Fire_Wild": {
+      "ver": "1.0.6",
+      "uuid": "1cd9cdca-49c6-49b6-ae6b-27149c666d27",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "deb4a24b-f4a7-49c5-a59f-ac179c891cd7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 5,
+      "width": 475,
+      "height": 440,
+      "rawWidth": 479,
+      "rawHeight": 448,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

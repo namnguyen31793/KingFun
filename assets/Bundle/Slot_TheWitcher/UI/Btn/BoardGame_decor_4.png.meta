@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7bec9f9a-3bcd-47a7-9db8-a39866c6dd66",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 622,
+  "height": 47,
+  "platformSettings": {},
+  "subMetas": {
+    "BoardGame_decor_4": {
+      "ver": "1.0.6",
+      "uuid": "981e36f5-adcc-4c01-8294-4836aa52fee8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7bec9f9a-3bcd-47a7-9db8-a39866c6dd66",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 622,
+      "height": 47,
+      "rawWidth": 622,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

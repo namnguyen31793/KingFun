@@ -1,0 +1,18 @@
+info face="Lucida Calligraphy" size=24 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=1,1,1,1 spacing=0,1 outline=0
+common lineHeight=24 base=18 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=0 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="GUI_FONT_Award_0.png"
+chars count=14
+char id=-1   x=359   y=340   width=2     height=26    xoffset=-1    yoffset=-1    xadvance=0     page=0  chnl=15
+char id=43   x=221   y=170   width=106   height=169   xoffset=-1    yoffset=-1    xadvance=104   page=0  chnl=15
+char id=44   x=318   y=340   width=41    height=169   xoffset=-1    yoffset=-1    xadvance=39    page=0  chnl=15
+char id=48   x=0     y=0     width=130   height=169   xoffset=-1    yoffset=-1    xadvance=128   page=0  chnl=15
+char id=49   x=433   y=170   width=71    height=169   xoffset=-1    yoffset=-1    xadvance=69    page=0  chnl=15
+char id=50   x=0     y=170   width=113   height=169   xoffset=-1    yoffset=-1    xadvance=111   page=0  chnl=15
+char id=51   x=327   y=170   width=106   height=169   xoffset=-1    yoffset=-1    xadvance=104   page=0  chnl=15
+char id=52   x=362   y=0     width=115   height=169   xoffset=-1    yoffset=-1    xadvance=113   page=0  chnl=15
+char id=53   x=113   y=170   width=108   height=169   xoffset=-1    yoffset=-1    xadvance=106   page=0  chnl=15
+char id=54   x=130   y=0     width=116   height=169   xoffset=-1    yoffset=-1    xadvance=114   page=0  chnl=15
+char id=55   x=0     y=340   width=106   height=169   xoffset=-1    yoffset=-1    xadvance=104   page=0  chnl=15
+char id=56   x=106   y=340   width=106   height=169   xoffset=-1    yoffset=-1    xadvance=104   page=0  chnl=15
+char id=57   x=246   y=0     width=116   height=169   xoffset=-1    yoffset=-1    xadvance=114   page=0  chnl=15
+char id=120  x=212   y=340   width=106   height=169   xoffset=-1    yoffset=-1    xadvance=104   page=0  chnl=15

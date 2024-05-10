@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "52fe5297-51c0-408d-8fad-8625c22e59e4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 370,
+  "height": 242,
+  "platformSettings": {},
+  "subMetas": {
+    "UI_Money_BoardJackpot": {
+      "ver": "1.0.6",
+      "uuid": "5375c4e3-9431-4937-9843-476529ed5ac0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "52fe5297-51c0-408d-8fad-8625c22e59e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 370,
+      "height": 242,
+      "rawWidth": 370,
+      "rawHeight": 242,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

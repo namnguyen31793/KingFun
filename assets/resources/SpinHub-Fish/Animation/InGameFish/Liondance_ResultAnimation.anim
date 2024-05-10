@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Liondance_ResultAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.3333333333333335,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "dancelion_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                900,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                300,
+                -100,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "dancelion_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -900,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -300,
+                -100,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "MultiBoard": {
+        "props": {
+          "scale": [
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.2,
+                "y": 0.2
+              }
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

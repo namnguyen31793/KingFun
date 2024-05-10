@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "917f416b-a007-4bbd-b2c1-cacec50ac250",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 87,
+  "height": 24,
+  "platformSettings": {},
+  "subMetas": {
+    "TreasureLand_Bar_02": {
+      "ver": "1.0.6",
+      "uuid": "0e4b8d37-f3d7-4906-a120-beb54c70c7ec",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "917f416b-a007-4bbd-b2c1-cacec50ac250",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 24,
+      "rawWidth": 87,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

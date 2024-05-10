@@ -1,0 +1,138 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SlotView_ReturnMainView",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "BlockPanel": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "BackGroundCollection/BackgroundEffect/TW_AnimTransition": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -1050,
+                -130,
+                0
+              ]
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -550,
+                -130,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "KhungContent": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "bot-bar": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -303,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "top-bar": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                303,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "BackGroundCollection": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "KhungContent/khungView/spinView": {
+        "props": {
+          "y": []
+        }
+      },
+      "TutorialContent": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

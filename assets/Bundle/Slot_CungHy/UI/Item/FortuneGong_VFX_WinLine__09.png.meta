@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a80053a7-7861-4b5c-9835-906c2decca8d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 246,
+  "height": 246,
+  "platformSettings": {},
+  "subMetas": {
+    "FortuneGong_VFX_WinLine__09": {
+      "ver": "1.0.6",
+      "uuid": "a373546a-34fd-4605-93be-784e1ae9205c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a80053a7-7861-4b5c-9835-906c2decca8d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 246,
+      "height": 246,
+      "rawWidth": 246,
+      "rawHeight": 246,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

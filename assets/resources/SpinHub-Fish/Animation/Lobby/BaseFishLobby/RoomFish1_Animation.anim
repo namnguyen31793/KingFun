@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RoomFish1_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "image_lanternfish": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -154,
+                10
+              ],
+              "motionPath": [
+                [
+                  -69,
+                  46,
+                  -79,
+                  79,
+                  -54,
+                  1
+                ],
+                [
+                  -19,
+                  -53,
+                  -34,
+                  -52,
+                  9,
+                  -55
+                ]
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -74.67778529898555,
+                53.526334449309424,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 3.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.6,
+                "y": 0.6
+              }
+            },
+            {
+              "frame": 3.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.7
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

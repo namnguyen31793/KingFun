@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "32db2bc5-7c2b-4d35-93c1-b2297402fed3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 122,
+  "height": 170,
+  "platformSettings": {},
+  "subMetas": {
+    "new_gun_firestorm1": {
+      "ver": "1.0.6",
+      "uuid": "e1c9d637-75a0-4c52-a576-78718eaa5ab6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "32db2bc5-7c2b-4d35-93c1-b2297402fed3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 119,
+      "height": 168,
+      "rawWidth": 122,
+      "rawHeight": 170,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

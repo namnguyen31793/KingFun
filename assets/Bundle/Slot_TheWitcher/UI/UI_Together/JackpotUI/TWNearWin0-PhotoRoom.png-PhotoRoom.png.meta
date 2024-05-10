@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "50e21ad1-41f9-4a74-89fc-b8c335f33852",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 153,
+  "height": 310,
+  "platformSettings": {},
+  "subMetas": {
+    "TWNearWin0-PhotoRoom.png-PhotoRoom": {
+      "ver": "1.0.6",
+      "uuid": "ac2fa7d7-572a-463f-bd1b-4dd488c4cf37",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "50e21ad1-41f9-4a74-89fc-b8c335f33852",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0.5,
+      "trimX": 25,
+      "trimY": 24,
+      "width": 100,
+      "height": 261,
+      "rawWidth": 153,
+      "rawHeight": 310,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

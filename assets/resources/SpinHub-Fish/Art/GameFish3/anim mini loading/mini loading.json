@@ -1,0 +1,67 @@
+{
+"skeleton": {
+	"hash": "yBxwr9sIhvB7AsnpKPr1ln2hi/Y",
+	"spine": "3.8.99",
+	"x": -63.76,
+	"y": -61.66,
+	"width": 124.3,
+	"height": 124.55,
+	"images": "./images/",
+	"audio": "C:/Users/Admin/Desktop/mini loading"
+},
+"bones": [
+	{ "name": "root", "x": -154.24, "y": 83.26 },
+	{ "name": "bone", "parent": "root", "x": 153.75, "y": -126.28 }
+],
+"slots": [
+	{ "name": "nen den", "bone": "root", "attachment": "nen den" },
+	{ "name": "Đang tải", "bone": "root", "attachment": "Đang tải" },
+	{ "name": "root", "bone": "root", "attachment": "root" },
+	{ "name": "Layer 2420", "bone": "root", "attachment": "Layer 2420" },
+	{ "name": "Layer 2405 copy 5 (merged) (merged) copy", "bone": "bone", "attachment": "Layer 2405 copy 5 (merged) (merged) copy" },
+	{ "name": "Đang tải2", "bone": "root", "attachment": "Đang tải" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 2405 copy 5 (merged) (merged) copy": {
+				"Layer 2405 copy 5 (merged) (merged) copy": { "x": -49.75, "y": 4.78, "width": 210, "height": 23 }
+			},
+			"Layer 2420": {
+				"Layer 2420": { "x": 152.5, "y": -120.5, "width": 109, "height": 23 }
+			},
+			"nen den": {
+				"nen den": { "x": 153, "y": -83, "width": 124, "height": 124 }
+			},
+			"root": {
+				"root": {
+					"type": "clipping",
+					"end": "root",
+					"vertexCount": 44,
+					"vertices": [ 154.2, -144.93, 144.87, -144.26, 129.78, -140.04, 122.9, -136.49, 114.46, -130.27, 104.47, -121.17, 97.59, -110.29, 94.48, -102.75, 92.7, -95.64, 90.71, -88.32, 90.48, -82.54, 91.2, -72.38, 94.3, -60.61, 97.62, -54.72, 103.61, -46.16, 107.89, -40.92, 114.09, -34.18, 121.9, -29.15, 127.68, -25.73, 138.49, -22.41, 146.62, -20.91, 153.26, -20.38, 160.32, -20.8, 168.13, -22.94, 175.4, -24.44, 181.5, -27.97, 190.71, -33, 196.38, -39.21, 203.12, -46.48, 208.47, -55.58, 212.85, -67.46, 213.82, -76.12, 214.78, -83.4, 213.28, -93.35, 212.11, -102.45, 208.25, -111.43, 202.8, -119.99, 199.91, -123.2, 194.56, -128.45, 189.21, -133.37, 180.11, -138.18, 174.12, -140.32, 167.49, -143, 159.89, -143.96 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"Đang tải": {
+				"Đang tải": { "x": 153, "y": -87.5, "width": 168, "height": 177 }
+			},
+			"Đang tải2": {
+				"Đang tải": { "x": 153, "y": -87.5, "width": 168, "height": 177 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{},
+					{ "time": 0.6667, "x": 34.25 }
+				]
+			}
+		}
+	}
+}
+}

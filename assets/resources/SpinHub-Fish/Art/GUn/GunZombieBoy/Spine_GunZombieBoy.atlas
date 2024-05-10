@@ -1,0 +1,167 @@
+
+Spine_GunZombieBoy.png
+size: 898, 275
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BoyBeads
+  rotate: false
+  xy: 489, 50
+  size: 122, 78
+  orig: 122, 78
+  offset: 0, 0
+  index: -1
+BoyBeads_B
+  rotate: false
+  xy: 859, 133
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+BoyBody
+  rotate: true
+  xy: 232, 8
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+BoyDeco
+  rotate: false
+  xy: 2, 5
+  size: 133, 69
+  orig: 133, 69
+  offset: 0, 0
+  index: -1
+BoyEye_L
+  rotate: false
+  xy: 540, 7
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+BoyEye_R
+  rotate: false
+  xy: 717, 26
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+BoyFace
+  rotate: false
+  xy: 2, 76
+  size: 228, 197
+  orig: 228, 197
+  offset: 0, 0
+  index: -1
+BoyFoot
+  rotate: true
+  xy: 841, 6
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+BoyHair
+  rotate: false
+  xy: 232, 133
+  size: 263, 140
+  orig: 263, 140
+  offset: 0, 0
+  index: -1
+BoyHair_FL
+  rotate: false
+  xy: 730, 167
+  size: 166, 106
+  orig: 166, 106
+  offset: 0, 0
+  index: -1
+BoyHair_FR
+  rotate: false
+  xy: 362, 50
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+BoyHair_L
+  rotate: true
+  xy: 362, 7
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+BoyHair_R
+  rotate: true
+  xy: 451, 5
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
+BoyHat
+  rotate: false
+  xy: 497, 130
+  size: 231, 143
+  orig: 231, 143
+  offset: 0, 0
+  index: -1
+BoyMouth
+  rotate: true
+  xy: 692, 2
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+BoyPants
+  rotate: true
+  xy: 792, 21
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+BoyPonyTail
+  rotate: false
+  xy: 730, 130
+  size: 127, 35
+  orig: 127, 35
+  offset: 0, 0
+  index: -1
+BoySleeve_B
+  rotate: true
+  xy: 615, 4
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+BoySleeve_F
+  rotate: true
+  xy: 613, 60
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+BoySleeve_M
+  rotate: false
+  xy: 805, 68
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+BoyTone
+  rotate: false
+  xy: 841, 37
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+Spell
+  rotate: true
+  xy: 137, 8
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+SpellShadow
+  rotate: true
+  xy: 712, 69
+  size: 59, 91
+  orig: 61, 93
+  offset: 1, 1
+  index: -1

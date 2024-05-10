@@ -1,0 +1,34 @@
+
+TW_ChoiThuChoiThat_doc.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChoiThatGlow
+  rotate: false
+  xy: 2, 94
+  size: 184, 30
+  orig: 184, 30
+  offset: 0, 0
+  index: -1
+ChoiThuGlow
+  rotate: false
+  xy: 2, 32
+  size: 175, 28
+  orig: 175, 28
+  offset: 0, 0
+  index: -1
+choithat
+  rotate: false
+  xy: 2, 62
+  size: 184, 30
+  orig: 184, 30
+  offset: 0, 0
+  index: -1
+choithu
+  rotate: false
+  xy: 2, 2
+  size: 175, 28
+  orig: 175, 28
+  offset: 0, 0
+  index: -1

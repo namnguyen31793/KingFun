@@ -1,0 +1,751 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EffectFreeSpin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.75,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "text free": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.4,
+              "value": true
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            },
+            {
+              "frame": 3.75,
+              "value": false
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.4,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 1.875,
+              "value": 1
+            },
+            {
+              "frame": 3.375,
+              "value": 1
+            },
+            {
+              "frame": 3.5,
+              "value": 1.1
+            },
+            {
+              "frame": 3.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.35,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.35,
+              "value": 0
+            },
+            {
+              "frame": 0.675,
+              "value": 720
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.35,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.875,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 1.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.9,
+              "value": 360
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.375,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.9,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.725,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 720
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.375,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.025,
+              "value": 0
+            },
+            {
+              "frame": 0.825,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.025,
+              "value": 0
+            },
+            {
+              "frame": 0.825,
+              "value": 434
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.025,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.625,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.5,
+                "y": 2.5
+              }
+            },
+            {
+              "frame": 0.825,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.475,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.7,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 437
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_7": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.075,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_8": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.175,
+              "value": 0
+            },
+            {
+              "frame": 0.475,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_9": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect/RollFree_10": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.125,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.125,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 503
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.325,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.55,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "Effect/image_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.875,
+              "value": 255
+            },
+            {
+              "frame": 1.25,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 1.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Effect/image_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.975,
+              "value": 255
+            },
+            {
+              "frame": 1.125,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Effect/image_3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.475,
+              "value": 0
+            },
+            {
+              "frame": 0.875,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.475,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.625,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.875,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Effect/image_4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Effect/image1_5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.325,
+              "value": 0
+            },
+            {
+              "frame": 0.875,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.275,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.375,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.675,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Effect/image1_6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.875,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.175,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.875,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Effect/image1_7": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect/image1_8": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.025,
+              "value": 0
+            },
+            {
+              "frame": 0.975,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect/image1_9": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.175,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Effect": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.025,
+              "value": 255
+            },
+            {
+              "frame": 1.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "text free/khungFree": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 2.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.225,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.1,
+                "y": 1.1
+              }
+            },
+            {
+              "frame": 2.325,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

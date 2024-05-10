@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "NearWin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ac2fa7d7-572a-463f-bd1b-4dd488c4cf37"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "eb184c84-72e0-4857-90f4-b1e10f4846f4"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4ea9ab83-96e2-426b-8969-bc839ada45f4"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "95e535c7-a367-464a-a2d5-8b7dde159572"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "4f2a345b-73d4-48ed-8ab7-fa0145e46ca5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

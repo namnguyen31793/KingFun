@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "95f0d76e-74fc-44a7-89ea-50a00db50d6c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 208,
+  "platformSettings": {},
+  "subMetas": {
+    "03_Phoenix_Dash_090": {
+      "ver": "1.0.6",
+      "uuid": "f6f17ed0-b94e-4bdd-ac57-0ec078bc7d01",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "95f0d76e-74fc-44a7-89ea-50a00db50d6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 9,
+      "trimY": 15,
+      "width": 238,
+      "height": 177,
+      "rawWidth": 256,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

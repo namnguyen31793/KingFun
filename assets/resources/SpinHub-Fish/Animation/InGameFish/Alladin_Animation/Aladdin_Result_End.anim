@@ -1,0 +1,81 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Aladdin_Result_End",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "RewardPanel/Header": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                255,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                65,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "RewardPanel/Bottom": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -255,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                -65,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "RewardPanel/Reward_Img": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                190,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

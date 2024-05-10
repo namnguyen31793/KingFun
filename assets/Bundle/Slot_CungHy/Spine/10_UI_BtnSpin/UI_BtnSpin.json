@@ -1,0 +1,256 @@
+{
+"skeleton": { "hash": "sD8ayZyvYYbb4sHYNOfIcGiNMXs", "spine": "3.7.94", "width": 174.87, "height": 174.87, "images": "./images/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root" },
+	{ "name": "Disable", "parent": "All" },
+	{ "name": "Frame", "parent": "All" },
+	{ "name": "Green", "parent": "All" },
+	{ "name": "Red", "parent": "All" },
+	{ "name": "IconStop", "parent": "Red" },
+	{ "name": "Glow_Pattern", "parent": "Frame" }
+],
+"slots": [
+	{ "name": "Glow_Pattern", "bone": "Glow_Pattern" },
+	{ "name": "Frame", "bone": "Frame", "attachment": "Frame" },
+	{ "name": "dissible", "bone": "Disable", "attachment": "dissible" },
+	{ "name": "Green", "bone": "Green", "attachment": "Green" },
+	{ "name": "GreenLight", "bone": "Green", "attachment": "GreenLight" },
+	{ "name": "Red", "bone": "Red", "attachment": "Red" },
+	{ "name": "Stop", "bone": "IconStop", "attachment": "Stop" }
+],
+"skins": {
+	"default": {
+		"Frame": {
+			"Frame": { "scaleX": 0.67, "scaleY": 0.67, "width": 261, "height": 261 }
+		},
+		"Glow_Pattern": {
+			"Glow_Pattern": { "y": 0.3, "scaleX": 0.704, "scaleY": 0.704, "width": 318, "height": 318 }
+		},
+		"Green": {
+			"Green": { "scaleX": 0.67, "scaleY": 0.67, "width": 202, "height": 203 }
+		},
+		"GreenLight": {
+			"GreenLight": { "scaleX": 0.67, "scaleY": 0.67, "width": 246, "height": 247 }
+		},
+		"Red": {
+			"Red": { "scaleX": 0.67, "scaleY": 0.67, "width": 202, "height": 203 }
+		},
+		"Stop": {
+			"Stop": { "scaleX": 0.67, "scaleY": 0.67, "width": 69, "height": 69 }
+		},
+		"dissible": {
+			"dissible": { "scaleX": 0.67, "scaleY": 0.67, "width": 202, "height": 203 }
+		}
+	}
+},
+"animations": {
+	"anim_Disable": {
+		"slots": {
+			"Green": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"GreenLight": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Red": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Stop": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"anim_GreentoRed": {
+		"slots": {
+			"Green": {
+				"attachment": [
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"GreenLight": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Red": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" }
+				]
+			},
+			"Stop": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "Stop" }
+				]
+			},
+			"dissible": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"IconStop": {
+				"scale": [
+					{ "time": 0.3333, "x": 0.3, "y": 0.3 },
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"anim_Hover": {
+		"slots": {
+			"Glow_Pattern": {
+				"attachment": [
+					{ "time": 0, "name": "Glow_Pattern" }
+				]
+			},
+			"GreenLight": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"color": "ffffff95",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"Red": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Stop": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"dissible": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Green": {
+				"scale": [
+					{ "time": 0, "x": 1.074, "y": 1.074 }
+				]
+			},
+			"Glow_Pattern": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.3333, "angle": -63.41 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1.035,
+						"y": 1.035,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.09,
+						"y": 1.09,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 1.035, "y": 1.035 }
+				]
+			}
+		}
+	},
+	"anim_Idle": {
+		"slots": {
+			"GreenLight": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5,
+						"color": "ffffffaf",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3, "color": "ffffff00" }
+				]
+			},
+			"Red": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Stop": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"dissible": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"anim_IdleGreen(NoAnim)": {
+		"slots": {
+			"GreenLight": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Red": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Stop": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"dissible": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"anim_IdleRed(NoAnim)": {
+		"slots": {
+			"Green": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"GreenLight": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"dissible": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

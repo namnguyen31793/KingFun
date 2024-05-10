@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d772ed67-96f0-4f3b-b3d7-a5ccc0378361",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 111,
+  "height": 157,
+  "platformSettings": {},
+  "subMetas": {
+    "SeaTurtleSwim_043": {
+      "ver": "1.0.6",
+      "uuid": "0be77fa4-ad29-4f74-bc20-947af1446894",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d772ed67-96f0-4f3b-b3d7-a5ccc0378361",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -4.5,
+      "trimX": 2,
+      "trimY": 11,
+      "width": 103,
+      "height": 144,
+      "rawWidth": 111,
+      "rawHeight": 157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "43821746-bec5-4cce-838a-8de0b4977827",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 239,
+  "height": 311,
+  "platformSettings": {},
+  "subMetas": {
+    "Hammer_attack_025": {
+      "ver": "1.0.6",
+      "uuid": "de2ef149-e579-4b2c-b8ea-c6c39ea34d40",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "43821746-bec5-4cce-838a-8de0b4977827",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 2.5,
+      "trimX": 8,
+      "trimY": 2,
+      "width": 224,
+      "height": 302,
+      "rawWidth": 239,
+      "rawHeight": 311,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

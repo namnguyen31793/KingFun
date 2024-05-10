@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EffectStartLaze",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a7bd543d-947a-4e25-9695-c081ca843106"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c566a8de-d966-4de4-826f-e19364f486c9"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a4419320-0ec1-4c9c-a1b3-e8b3b9136c17"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "f8402e8d-f78d-4e0e-aab8-4c6c412aaa47"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "91da545c-ec7d-4859-9d78-754ad96d4e7f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "c1985bca-ce44-48c1-a7d4-e75c24d9ee81"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

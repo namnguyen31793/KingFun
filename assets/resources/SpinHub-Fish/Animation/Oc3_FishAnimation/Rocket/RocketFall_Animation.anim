@@ -1,0 +1,147 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RocketFall_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Rocket_Content/rocket_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                115.152,
+                693.091,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                115.152,
+                -500,
+                0
+              ]
+            }
+          ],
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": -180
+              }
+            }
+          ]
+        }
+      },
+      "Rocket_Content/rocket_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                314.815,
+                713.804,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                314.815,
+                -500,
+                0
+              ]
+            }
+          ],
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": -180
+              }
+            }
+          ]
+        }
+      },
+      "Rocket_Content/rocket_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -0.7,
+                508.834,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                -0.7,
+                -500,
+                0
+              ]
+            }
+          ],
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": -180
+              }
+            }
+          ]
+        }
+      },
+      "Rocket_Content/rocket_4": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": -180
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                463.785,
+                810.41,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                463.785,
+                -500,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

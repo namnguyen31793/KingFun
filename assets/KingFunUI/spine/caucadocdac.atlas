@@ -1,0 +1,20 @@
+
+caucadocdac.png
+size: 204,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BR
+  rotate: false
+  xy: 2, 104
+  size: 200, 200
+  orig: 202, 202
+  offset: 1, 1
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 202, 102
+  offset: 1, 1
+  index: -1

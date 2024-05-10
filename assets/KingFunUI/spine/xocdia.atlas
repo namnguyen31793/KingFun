@@ -1,0 +1,90 @@
+
+xocdia.png
+size: 315,961
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BR
+  rotate: false
+  xy: 2, 577
+  size: 187, 382
+  orig: 189, 384
+  offset: 1, 1
+  index: -1
+anh sang
+  rotate: true
+  xy: 2, 189
+  size: 186, 187
+  orig: 188, 196
+  offset: 1, 8
+  index: -1
+caibata
+  rotate: true
+  xy: 2, 11
+  size: 176, 178
+  orig: 178, 180
+  offset: 1, 1
+  index: -1
+dia
+  rotate: true
+  xy: 191, 615
+  size: 157, 109
+  orig: 159, 111
+  offset: 1, 1
+  index: -1
+dia den
+  rotate: false
+  xy: 2, 377
+  size: 194, 198
+  orig: 196, 200
+  offset: 1, 1
+  index: -1
+dia1
+  rotate: true
+  xy: 191, 218
+  size: 157, 109
+  orig: 159, 111
+  offset: 1, 1
+  index: -1
+do
+  rotate: false
+  xy: 198, 545
+  size: 70, 68
+  orig: 72, 71
+  offset: 1, 1
+  index: -1
+do 2
+  rotate: false
+  xy: 198, 545
+  size: 70, 68
+  orig: 72, 71
+  offset: 1, 1
+  index: -1
+trang
+  rotate: false
+  xy: 198, 480
+  size: 64, 63
+  orig: 66, 66
+  offset: 1, 1
+  index: -1
+trang2
+  rotate: false
+  xy: 198, 480
+  size: 64, 63
+  orig: 66, 66
+  offset: 1, 1
+  index: -1
+xoc
+  rotate: true
+  xy: 182, 2
+  size: 185, 122
+  orig: 190, 131
+  offset: 1, 4
+  index: -1
+xoc1
+  rotate: true
+  xy: 191, 774
+  size: 185, 122
+  orig: 190, 131
+  offset: 1, 4
+  index: -1

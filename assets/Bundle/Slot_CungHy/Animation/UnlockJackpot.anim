@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "UnlockJackpot",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Lock": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "JPCell_Lock": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "JPCell_Jackpot": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Snare1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "019c9447-391f-421d-a3eb-525e8264fbb8"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "bd26e86a-fd79-42a7-b8bc-6a36e2028de4"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "038af45d-b35b-4bd2-9212-705601ff644d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "03d4dc4a-cb5c-4481-9510-3c3ff40d05b7"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.4,
+          "value": 255
+        },
+        {
+          "frame": 0.6,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

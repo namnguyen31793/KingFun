@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BoomGun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e1c9d637-75a0-4c52-a576-78718eaa5ab6"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "e1c9d637-75a0-4c52-a576-78718eaa5ab6"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f7aa9a3b-c18d-4cec-beea-f912442c38ce"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "e1c9d637-75a0-4c52-a576-78718eaa5ab6"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "eulerAngles": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 111
+          }
+        },
+        {
+          "frame": 0.2,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 111
+          }
+        },
+        {
+          "frame": 0.7,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 97.647
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

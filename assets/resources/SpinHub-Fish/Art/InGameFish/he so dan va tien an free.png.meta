@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a175f26e-a321-48d4-943d-7b2e4b1fecec",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 192,
+  "height": 87,
+  "platformSettings": {},
+  "subMetas": {
+    "he so dan va tien an free": {
+      "ver": "1.0.6",
+      "uuid": "a0ae07f3-7a59-483e-8ff5-315f796e390c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a175f26e-a321-48d4-943d-7b2e4b1fecec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 192,
+      "height": 87,
+      "rawWidth": 192,
+      "rawHeight": 87,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

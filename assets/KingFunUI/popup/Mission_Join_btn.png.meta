@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ccb81468-72db-4d35-b918-e9c75e81d76d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 194,
+  "height": 55,
+  "platformSettings": {},
+  "subMetas": {
+    "Mission_Join_btn": {
+      "ver": "1.0.6",
+      "uuid": "ed6b4274-3a96-4927-9515-f5cdf3b316da",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ccb81468-72db-4d35-b918-e9c75e81d76d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 194,
+      "height": 55,
+      "rawWidth": 194,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

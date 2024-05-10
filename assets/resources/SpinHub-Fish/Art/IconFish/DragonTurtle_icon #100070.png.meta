@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "69c4768c-e602-48ea-8786-493dd09b35bd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 308,
+  "height": 222,
+  "platformSettings": {},
+  "subMetas": {
+    "DragonTurtle_icon #100070": {
+      "ver": "1.0.6",
+      "uuid": "4ad433e5-b5d2-43db-a0b1-c61001047cc5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "69c4768c-e602-48ea-8786-493dd09b35bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 306,
+      "height": 221,
+      "rawWidth": 308,
+      "rawHeight": 222,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

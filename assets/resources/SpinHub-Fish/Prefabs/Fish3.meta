@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "84af2a83-f68b-496d-8818-f29754c91ec3",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "Fish3",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

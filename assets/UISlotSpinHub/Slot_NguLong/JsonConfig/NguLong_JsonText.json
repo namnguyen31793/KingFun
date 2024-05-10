@@ -1,0 +1,16 @@
+{
+    "SPIN_START": "Bấm quay để bắt đầu chơi.",
+    "WILD_INFO": "Đây là biểu tượng Wild có thể thay các biểu tượng khác trừ Scatter.",
+    "MULTI_INFO": "Khi Wild xuất hiện trong tổ hợp thắng, khi đó sẽ có tỷ lệ xuất hiện hệ số nhân.",
+    "NOTYFY_INFO": "Thắng 3 biểu tượng bao lì xì trả 15 xu với hệ số nhân x5 và tổ hợp thắng là x6 và giá xu đã chọn là x1,000.\n90 x 5 = 450 x 1,000 = 450,000",
+    "JACKPOT_INFO": "Game có 2 hũ xu, mỗi lần quay sẽ góp một phần tiền cược vào hũ.",
+    "CONTINUE": "Tiếp tục nào",
+    "NOT_WIN": "Không thắng được gì, thử tăng giá trị xu lên xem.",
+    "INCREASE_BET": "Tăng số lượng xu cược lên để tăng giá trị phần thưởng tương ứng.",
+    "TURN_TURBO": "Bấm vào đấy để tăng tốc.",
+    "INTRO_FREE": "Đồng xu vàng là biểu tượng Scatter khi xuất hiện đủ 3 biểu tượng trở lên liên tiếp từ trái sang phải bạn sẽ vào vòng quay miễn phí.",
+    "INTRO_SELECT_FREE": "Trước khi vào vòng quay miễn phí game sẽ có 7 lựa chọn, tùy mỗi lựa chọn sẽ có những số lần quay và hệ số nhân khác nhau của từng loại.",
+    "INTRO_ADD_FREE": "Khi biểu tượng này hiện lên là báo hiệu khi kết thúc lượt quay này sẽ có thêm 1 cơ hội lựa chọn vòng quay khác với hệ số nhân khác.",
+    "WILD_INFO_JACKPOT": "Đây là biểu tượng đặc biệt, khi xuất hiện đủ 5 biểu tượng này sẽ nổ Hũ Grand.",
+    "END_TUTORIAL": "Nhấn giữ để chuyển sang chế độ tự quay"
+}

@@ -1,0 +1,111 @@
+
+GO_tet_2021.png
+size: 536,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CanhHoa
+  rotate: false
+  xy: 2, 5
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+CanhHoaNoPhai
+  rotate: false
+  xy: 370, 425
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+CanhHoaNoTo
+  rotate: false
+  xy: 333, 423
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+CanhHoaRoi
+  rotate: false
+  xy: 120, 208
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+DayNgang
+  rotate: false
+  xy: 2, 464
+  size: 532, 68
+  orig: 538, 70
+  offset: 0, 2
+  index: -1
+DenLon
+  rotate: false
+  xy: 199, 299
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+DenNho
+  rotate: false
+  xy: 32, 75
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+HoaTopPhai
+  rotate: false
+  xy: 258, 384
+  size: 73, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+HoaTopTrai
+  rotate: false
+  xy: 120, 235
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+KhungPhai
+  rotate: false
+  xy: 199, 366
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+KhungTrai
+  rotate: false
+  xy: 59, 199
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+NhanhHoa
+  rotate: true
+  xy: 2, 18
+  size: 93, 28
+  orig: 93, 28
+  offset: 0, 0
+  index: -1
+NhanhHoaPhai
+  rotate: true
+  xy: 59, 132
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+Phao
+  rotate: false
+  xy: 2, 113
+  size: 55, 182
+  orig: 55, 182
+  offset: 0, 0
+  index: -1
+PhaoNo
+  rotate: false
+  xy: 2, 297
+  size: 195, 165
+  orig: 195, 165
+  offset: 0, 0
+  index: -1

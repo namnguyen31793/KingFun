@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FireFooter",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6580d371-10f9-4b65-adc2-55a216e24382"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "3b24ea10-b1dd-4d53-99a3-44ba5004f387"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "3b24ea10-b1dd-4d53-99a3-44ba5004f387"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "6580d371-10f9-4b65-adc2-55a216e24382"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

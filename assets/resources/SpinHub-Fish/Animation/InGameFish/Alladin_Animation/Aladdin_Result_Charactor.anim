@@ -1,0 +1,203 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Aladdin_Result_Charactor",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "RewardPanel": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.05,
+                "y": 1.05
+              }
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "RewardPanel/Reward_Img": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.11666666666666667,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                0,
+                190,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "RewardPanel/Header": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.11666666666666667,
+              "value": [
+                0,
+                65,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                0,
+                255,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "AladinComming": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.25,
+              "value": true
+            }
+          ]
+        }
+      },
+      "RewardPanel/Bottom": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.11666666666666667,
+              "value": [
+                0,
+                -65,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                0,
+                -255,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "AladinComming/Cycle": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 360
+            }
+          ],
+          "active": [
+            {
+              "frame": 0.25,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Charactor": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                1800,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Stake_Level_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Stake1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "Stake2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Stake3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Stake4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

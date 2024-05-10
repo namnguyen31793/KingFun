@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5e85cf01-3eb6-4b75-9828-ad20ba6475c7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 115,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "icCard10C": {
+      "ver": "1.0.6",
+      "uuid": "5d48c3bf-b7c2-41e7-8c46-ba1639ff3c9b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5e85cf01-3eb6-4b75-9828-ad20ba6475c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 115,
+      "height": 168,
+      "rawWidth": 115,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

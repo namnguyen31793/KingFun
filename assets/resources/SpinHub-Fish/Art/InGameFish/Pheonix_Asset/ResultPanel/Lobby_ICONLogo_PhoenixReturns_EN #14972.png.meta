@@ -1,0 +1,47 @@
+{
+  "ver": "2.3.7",
+  "uuid": "454aada5-3878-4e63-8e2a-3ff509bf9066",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 421,
+  "height": 318,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 80
+        }
+      ]
+    }
+  },
+  "subMetas": {
+    "Lobby_ICONLogo_PhoenixReturns_EN #14972": {
+      "ver": "1.0.6",
+      "uuid": "1436c172-4ee0-4e26-adbb-c44e0be830b7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "454aada5-3878-4e63-8e2a-3ff509bf9066",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 421,
+      "height": 318,
+      "rawWidth": 421,
+      "rawHeight": 318,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

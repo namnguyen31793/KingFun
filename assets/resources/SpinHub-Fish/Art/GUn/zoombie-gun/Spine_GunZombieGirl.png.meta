@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "eab952ab-95fb-4ba4-b800-ff90b82b4902",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 492,
+  "height": 509,
+  "platformSettings": {},
+  "subMetas": {
+    "Spine_GunZombieGirl": {
+      "ver": "1.0.6",
+      "uuid": "4bc26179-3fc8-43a2-83c9-bad5f3ccf055",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "eab952ab-95fb-4ba4-b800-ff90b82b4902",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 488,
+      "height": 503,
+      "rawWidth": 492,
+      "rawHeight": 509,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DrillGun2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "new_bullet_drill_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "1e71f176-29e5-41f0-a885-6b205f719b38"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "27d7578b-38ed-4beb-a1ff-f0a400f05c86"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "1e71f176-29e5-41f0-a885-6b205f719b38"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "27d7578b-38ed-4beb-a1ff-f0a400f05c86"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "1e71f176-29e5-41f0-a885-6b205f719b38"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "27d7578b-38ed-4beb-a1ff-f0a400f05c86"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "1e71f176-29e5-41f0-a885-6b205f719b38"
+                }
+              },
+              {
+                "frame": 0.7,
+                "value": {
+                  "__uuid__": "27d7578b-38ed-4beb-a1ff-f0a400f05c86"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

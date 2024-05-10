@@ -1,0 +1,34 @@
+
+dieunhaybaybong.png
+size: 204,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BR
+  rotate: false
+  xy: 2, 111
+  size: 200, 200
+  orig: 202, 202
+  offset: 1, 1
+  index: -1
+sao copy 2
+  rotate: false
+  xy: 161, 29
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+text_1
+  rotate: false
+  xy: 2, 54
+  size: 176, 55
+  orig: 178, 57
+  offset: 1, 1
+  index: -1
+text_2
+  rotate: false
+  xy: 2, 2
+  size: 157, 50
+  orig: 159, 52
+  offset: 1, 1
+  index: -1

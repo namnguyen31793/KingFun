@@ -1,0 +1,433 @@
+
+WizardGirl.png
+size: 2033, 1111
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Galaxy_stars_02
+  rotate: true
+  xy: 644, 2
+  size: 249, 243
+  orig: 256, 256
+  offset: 6, 8
+  index: -1
+Ghost001
+  rotate: false
+  xy: 1780, 101
+  size: 55, 55
+  orig: 59, 62
+  offset: 2, 6
+  index: -1
+Ghost001_m
+  rotate: true
+  xy: 1462, 297
+  size: 171, 130
+  orig: 179, 133
+  offset: 6, 0
+  index: -1
+Ghost002
+  rotate: false
+  xy: 1784, 48
+  size: 50, 51
+  orig: 55, 53
+  offset: 2, 1
+  index: -1
+Ghost002_m
+  rotate: false
+  xy: 1591, 147
+  size: 187, 113
+  orig: 188, 121
+  offset: 1, 4
+  index: -1
+Lstar
+  rotate: true
+  xy: 1462, 170
+  size: 125, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+WizardGirl001
+  rotate: false
+  xy: 1852, 137
+  size: 116, 98
+  orig: 118, 100
+  offset: 1, 1
+  index: -1
+WizardGirl002
+  rotate: false
+  xy: 1780, 158
+  size: 70, 100
+  orig: 71, 100
+  offset: 1, 0
+  index: -1
+WizardGirl003
+  rotate: true
+  xy: 1642, 11
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+WizardGirl004
+  rotate: false
+  xy: 635, 549
+  size: 653, 321
+  orig: 653, 321
+  offset: 0, 0
+  index: -1
+WizardGirl005
+  rotate: false
+  xy: 1245, 53
+  size: 176, 127
+  orig: 177, 127
+  offset: 1, 0
+  index: -1
+WizardGirl006
+  rotate: false
+  xy: 2, 5
+  size: 363, 97
+  orig: 369, 97
+  offset: 0, 0
+  index: -1
+WizardGirl007
+  rotate: true
+  xy: 367, 27
+  size: 72, 182
+  orig: 73, 182
+  offset: 0, 0
+  index: -1
+WizardGirl008
+  rotate: false
+  xy: 1791, 260
+  size: 68, 196
+  orig: 68, 199
+  offset: 0, 0
+  index: -1
+WizardGirl009
+  rotate: true
+  xy: 425, 101
+  size: 254, 217
+  orig: 254, 217
+  offset: 0, 0
+  index: -1
+WizardGirl010
+  rotate: true
+  xy: 889, 25
+  size: 161, 215
+  orig: 161, 216
+  offset: 0, 1
+  index: -1
+WizardGirl011
+  rotate: true
+  xy: 1423, 28
+  size: 80, 127
+  orig: 82, 129
+  offset: 1, 1
+  index: -1
+WizardGirl012_1
+  rotate: true
+  xy: 1598, 593
+  size: 266, 276
+  orig: 266, 276
+  offset: 0, 0
+  index: -1
+WizardGirl012_2
+  rotate: false
+  xy: 1249, 182
+  size: 211, 248
+  orig: 212, 248
+  offset: 0, 0
+  index: -1
+WizardGirl012_3
+  rotate: false
+  xy: 1594, 262
+  size: 195, 194
+  orig: 195, 194
+  offset: 0, 0
+  index: -1
+WizardGirl013
+  rotate: true
+  xy: 1245, 2
+  size: 49, 104
+  orig: 51, 109
+  offset: 1, 3
+  index: -1
+WizardGirl014
+  rotate: false
+  xy: 1106, 21
+  size: 137, 165
+  orig: 169, 165
+  offset: 0, 0
+  index: -1
+WizardGirl015
+  rotate: false
+  xy: 1731, 10
+  size: 57, 26
+  orig: 59, 28
+  offset: 1, 1
+  index: -1
+WizardGirl016
+  rotate: true
+  xy: 433, 8
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+WizardGirl017
+  rotate: false
+  xy: 1436, 440
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+WizardGirl018
+  rotate: true
+  xy: 1970, 920
+  size: 189, 60
+  orig: 189, 60
+  offset: 0, 0
+  index: -1
+WizardGirl019
+  rotate: false
+  xy: 889, 8
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+WizardGirl020
+  rotate: false
+  xy: 1294, 446
+  size: 73, 22
+  orig: 73, 22
+  offset: 0, 0
+  index: -1
+WizardGirl021_1
+  rotate: true
+  xy: 1423, 172
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+WizardGirl021_2
+  rotate: true
+  xy: 1552, 100
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+WizardGirl022
+  rotate: true
+  xy: 1970, 149
+  size: 86, 48
+  orig: 92, 53
+  offset: 3, 3
+  index: -1
+WizardGirl023
+  rotate: true
+  xy: 981, 188
+  size: 242, 266
+  orig: 242, 266
+  offset: 0, 0
+  index: -1
+WizardGirl024
+  rotate: true
+  xy: 1837, 135
+  size: 21, 13
+  orig: 24, 16
+  offset: 1, 2
+  index: -1
+WizardGirl025
+  rotate: true
+  xy: 1970, 118
+  size: 29, 35
+  orig: 32, 37
+  offset: 2, 1
+  index: -1
+WizardGirl026
+  rotate: false
+  xy: 1970, 861
+  size: 30, 12
+  orig: 32, 16
+  offset: 1, 3
+  index: -1
+WizardGirl027
+  rotate: false
+  xy: 1790, 6
+  size: 42, 40
+  orig: 44, 42
+  offset: 1, 1
+  index: -1
+WizardGirl028
+  rotate: false
+  xy: 1423, 110
+  size: 163, 58
+  orig: 165, 60
+  offset: 1, 1
+  index: -1
+WizardGirl029
+  rotate: true
+  xy: 2007, 298
+  size: 21, 24
+  orig: 24, 25
+  offset: 2, 0
+  index: -1
+WizardGirl030
+  rotate: false
+  xy: 1970, 875
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+WizardGirl031
+  rotate: true
+  xy: 1731, 38
+  size: 58, 51
+  orig: 60, 54
+  offset: 1, 2
+  index: -1
+WizardGirl032
+  rotate: false
+  xy: 1868, 381
+  size: 163, 210
+  orig: 171, 210
+  offset: 8, 0
+  index: -1
+WizardGirl033
+  rotate: true
+  xy: 1369, 439
+  size: 29, 65
+  orig: 31, 67
+  offset: 1, 1
+  index: -1
+WizardGirl034
+  rotate: true
+  xy: 1351, 11
+  size: 40, 65
+  orig: 42, 67
+  offset: 1, 1
+  index: -1
+WizardGirl035
+  rotate: false
+  xy: 1876, 593
+  size: 155, 266
+  orig: 155, 266
+  offset: 0, 0
+  index: -1
+WizardGirl037
+  rotate: true
+  xy: 1600, 861
+  size: 248, 368
+  orig: 252, 370
+  offset: 4, 2
+  index: -1
+WizardGirl038
+  rotate: true
+  xy: 1612, 458
+  size: 133, 254
+  orig: 133, 254
+  offset: 0, 0
+  index: -1
+WizardGirl039
+  rotate: true
+  xy: 1588, 98
+  size: 47, 188
+  orig: 47, 193
+  offset: 0, 5
+  index: -1
+WizardGirl040
+  rotate: false
+  xy: 2, 357
+  size: 631, 752
+  orig: 631, 752
+  offset: 0, 0
+  index: -1
+WizardGirl041
+  rotate: true
+  xy: 2, 104
+  size: 251, 421
+  orig: 251, 421
+  offset: 0, 0
+  index: -1
+WizardGirl042
+  rotate: false
+  xy: 1290, 588
+  size: 306, 282
+  orig: 306, 282
+  offset: 0, 0
+  index: -1
+WizardGirl043
+  rotate: true
+  xy: 644, 253
+  size: 177, 335
+  orig: 177, 335
+  offset: 0, 0
+  index: -1
+WizardGirl044
+  rotate: true
+  xy: 1294, 470
+  size: 116, 316
+  orig: 119, 320
+  offset: 3, 0
+  index: -1
+WizardGirl045
+  rotate: false
+  xy: 635, 432
+  size: 657, 115
+  orig: 657, 115
+  offset: 0, 0
+  index: -1
+WizardGirl36
+  rotate: false
+  xy: 635, 872
+  size: 963, 237
+  orig: 963, 237
+  offset: 0, 0
+  index: -1
+cat001
+  rotate: true
+  xy: 551, 16
+  size: 83, 90
+  orig: 86, 92
+  offset: 1, 1
+  index: -1
+cat0014
+  rotate: true
+  xy: 367, 2
+  size: 23, 64
+  orig: 29, 68
+  offset: 3, 2
+  index: -1
+cat001_02
+  rotate: true
+  xy: 2007, 321
+  size: 58, 24
+  orig: 86, 92
+  offset: 13, 38
+  index: -1
+cat002
+  rotate: false
+  xy: 1861, 237
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+cat003
+  rotate: false
+  xy: 955, 188
+  size: 15, 63
+  orig: 18, 66
+  offset: 1, 1
+  index: -1
+cirlight
+  rotate: false
+  xy: 889, 188
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1
+star
+  rotate: true
+  xy: 1552, 12
+  size: 84, 88
+  orig: 89, 92
+  offset: 4, 1
+  index: -1

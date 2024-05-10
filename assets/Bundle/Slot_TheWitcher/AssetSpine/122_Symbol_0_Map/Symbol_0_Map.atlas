@@ -1,0 +1,27 @@
+
+Symbol_0_Map.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kim
+  rotate: false
+  xy: 174, 172
+  size: 9, 39
+  orig: 9, 39
+  offset: 0, 0
+  index: -1
+LaBan
+  rotate: false
+  xy: 2, 2
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+bando2
+  rotate: false
+  xy: 2, 51
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1

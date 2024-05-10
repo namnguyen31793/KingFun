@@ -1,0 +1,383 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CH_CoinMulti_Content",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 40,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Coin1_00": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.4,
+                "y": 0.4
+              }
+            },
+            {
+              "frame": 1.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.825,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.975,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.375,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.125,
+              "value": [
+                0,
+                800,
+                0
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.125,
+                "value": {
+                  "__uuid__": "b01aa496-33f0-402d-be7c-8dfa0a88189b"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "a040d691-be32-479a-b005-cd3488c44423"
+                }
+              },
+              {
+                "frame": 0.275,
+                "value": {
+                  "__uuid__": "da6bb573-5340-4bff-976e-80dcca5ba303"
+                }
+              },
+              {
+                "frame": 0.35,
+                "value": {
+                  "__uuid__": "76ef49aa-65e5-4144-a8e0-995a6e8ad4d0"
+                }
+              },
+              {
+                "frame": 0.425,
+                "value": {
+                  "__uuid__": "476a0910-0c30-40a2-b072-be915e46133a"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "e32b8fea-ba77-42cb-9f98-5ca69bc6067f"
+                }
+              },
+              {
+                "frame": 0.575,
+                "value": {
+                  "__uuid__": "68b24c1d-bc80-480e-950f-effc552fe1c6"
+                }
+              },
+              {
+                "frame": 0.65,
+                "value": {
+                  "__uuid__": "e64fa843-32f9-40eb-9ead-a2915018c32c"
+                }
+              },
+              {
+                "frame": 0.725,
+                "value": {
+                  "__uuid__": "b01aa496-33f0-402d-be7c-8dfa0a88189b"
+                }
+              },
+              {
+                "frame": 0.8,
+                "value": {
+                  "__uuid__": "a040d691-be32-479a-b005-cd3488c44423"
+                }
+              },
+              {
+                "frame": 0.875,
+                "value": {
+                  "__uuid__": "da6bb573-5340-4bff-976e-80dcca5ba303"
+                }
+              },
+              {
+                "frame": 0.95,
+                "value": {
+                  "__uuid__": "76ef49aa-65e5-4144-a8e0-995a6e8ad4d0"
+                }
+              },
+              {
+                "frame": 1.025,
+                "value": {
+                  "__uuid__": "476a0910-0c30-40a2-b072-be915e46133a"
+                }
+              },
+              {
+                "frame": 1.1,
+                "value": {
+                  "__uuid__": "e32b8fea-ba77-42cb-9f98-5ca69bc6067f"
+                }
+              },
+              {
+                "frame": 1.175,
+                "value": {
+                  "__uuid__": "68b24c1d-bc80-480e-950f-effc552fe1c6"
+                }
+              },
+              {
+                "frame": 1.25,
+                "value": {
+                  "__uuid__": "e64fa843-32f9-40eb-9ead-a2915018c32c"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "x4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1.675,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.825,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.975,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 2.375,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "VFX_Win_Sparkle_Flying_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.375,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -380,
+                288,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.375,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "VFX_Win_Sparkle_Flying_2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.375,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 2.375,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                0,
+                288,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "VFX_Win_Sparkle_Flying_3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.375,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.375,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                380,
+                288,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

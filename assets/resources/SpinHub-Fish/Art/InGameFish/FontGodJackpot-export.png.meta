@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2d5722d4-e44d-44b7-ae38-4143ec5c6163",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "FontGodJackpot-export": {
+      "ver": "1.0.6",
+      "uuid": "20fdb670-b17b-4558-80ff-2d19b03449dd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2d5722d4-e44d-44b7-ae38-4143ec5c6163",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -31.5,
+      "offsetY": 14,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 193,
+      "height": 228,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CH_JackpotView_RowCollection_Slow_Spin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Row_0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -375
+            },
+            {
+              "frame": 1,
+              "value": 375
+            },
+            {
+              "frame": 2,
+              "value": 250
+            },
+            {
+              "frame": 3,
+              "value": 125
+            },
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": -125
+            },
+            {
+              "frame": 6,
+              "value": -250
+            },
+            {
+              "frame": 7,
+              "value": -375
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Row_1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 375
+            },
+            {
+              "frame": 1,
+              "value": 250
+            },
+            {
+              "frame": 2,
+              "value": 125
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": -125
+            },
+            {
+              "frame": 5,
+              "value": -250
+            },
+            {
+              "frame": 6,
+              "value": -375
+            },
+            {
+              "frame": 7,
+              "value": 375
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            },
+            {
+              "frame": 7,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Row_2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 250
+            },
+            {
+              "frame": 1,
+              "value": 125
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -125
+            },
+            {
+              "frame": 4,
+              "value": -250
+            },
+            {
+              "frame": 5,
+              "value": -375
+            },
+            {
+              "frame": 6,
+              "value": 375
+            },
+            {
+              "frame": 7,
+              "value": 250
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Row_3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 125
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": -125
+            },
+            {
+              "frame": 3,
+              "value": -250
+            },
+            {
+              "frame": 4,
+              "value": -375
+            },
+            {
+              "frame": 5,
+              "value": 375
+            },
+            {
+              "frame": 6,
+              "value": 250
+            },
+            {
+              "frame": 7,
+              "value": 125
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Row_4": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -125
+            },
+            {
+              "frame": 2,
+              "value": -250
+            },
+            {
+              "frame": 3,
+              "value": -375
+            },
+            {
+              "frame": 4,
+              "value": 375
+            },
+            {
+              "frame": 5,
+              "value": 250
+            },
+            {
+              "frame": 6,
+              "value": 125
+            },
+            {
+              "frame": 7,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            },
+            {
+              "frame": 4,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Row_5": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -125
+            },
+            {
+              "frame": 1,
+              "value": -250
+            },
+            {
+              "frame": 2,
+              "value": -375
+            },
+            {
+              "frame": 3,
+              "value": 375
+            },
+            {
+              "frame": 4,
+              "value": 250
+            },
+            {
+              "frame": 5,
+              "value": 125
+            },
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 7,
+              "value": -125
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Row_6": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -250
+            },
+            {
+              "frame": 1,
+              "value": -375
+            },
+            {
+              "frame": 2,
+              "value": 375
+            },
+            {
+              "frame": 3,
+              "value": 250
+            },
+            {
+              "frame": 4,
+              "value": 125
+            },
+            {
+              "frame": 5,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": -125
+            },
+            {
+              "frame": 7,
+              "value": -250
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

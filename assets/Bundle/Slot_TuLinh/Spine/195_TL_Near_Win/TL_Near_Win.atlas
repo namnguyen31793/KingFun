@@ -1,0 +1,76 @@
+
+TL_Near_Win.png
+size: 358,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blurtop
+  rotate: false
+  xy: 115, 20
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 115, 148
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 2, 11
+  size: 111, 278
+  orig: 111, 278
+  offset: 0, 0
+  index: -1
+ss0
+  rotate: false
+  xy: 258, 151
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+ss1
+  rotate: false
+  xy: 258, 151
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+ss2
+  rotate: false
+  xy: 258, 215
+  size: 94, 74
+  orig: 94, 74
+  offset: 0, 0
+  index: -1
+ss4
+  rotate: false
+  xy: 258, 96
+  size: 96, 53
+  orig: 96, 53
+  offset: 0, 0
+  index: -1
+ss5
+  rotate: true
+  xy: 199, 51
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+ss7
+  rotate: true
+  xy: 256, 2
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+ss8
+  rotate: true
+  xy: 306, 3
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1

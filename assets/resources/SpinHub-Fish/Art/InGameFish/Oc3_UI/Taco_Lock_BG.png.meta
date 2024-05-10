@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "af8a3174-75f0-4137-952e-f133299df347",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 168,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "Taco_Lock_BG": {
+      "ver": "1.0.6",
+      "uuid": "cf2d86ea-a327-42e8-9d33-deb95f589bc6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "af8a3174-75f0-4137-952e-f133299df347",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 168,
+      "height": 167,
+      "rawWidth": 168,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

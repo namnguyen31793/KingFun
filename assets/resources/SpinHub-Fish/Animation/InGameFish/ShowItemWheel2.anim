@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ShowItemWheel2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "v1/r1/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "v1/r2/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -35
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v1/r3/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.1,
+              "value": -35
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v1/r4/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.2,
+              "value": -35
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v1/r5/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.3,
+              "value": -35
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v1/r6/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.4,
+              "value": -35
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v1/r7/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.5,
+              "value": -35
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v1/r8/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6,
+              "value": -35
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "v2/r1/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.1,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "v2/r2/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 1.2,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "v2/r3/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 1.4,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "v2/r4/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 1.6,
+              "value": 0
+            },
+            {
+              "frame": 1.7,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "v2/r5/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 1.8,
+              "value": 0
+            },
+            {
+              "frame": 1.9,
+              "value": -35
+            }
+          ]
+        }
+      },
+      "v2/r6/img": {
+        "props": {
+          "y": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.1,
+              "value": -35
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,194 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SlotView_StartFreespin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "top-bar": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 303
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1303
+            }
+          ]
+        }
+      },
+      "KhungContent": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "bot-bar": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -303
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -803
+            }
+          ]
+        }
+      },
+      "BackGroundCollection/BackgroundEffect/TW_AnimTransition": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -550,
+                -130,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -550,
+                -130,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                178,
+                -242,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.2,
+                "y": 0.2
+              }
+            }
+          ]
+        }
+      },
+      "BackGroundCollection": {
+        "props": {
+          "scale": [
+            {
+              "frame": 3.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 3.1666666666666665,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 3.6666666666666665,
+              "value": [
+                -716,
+                756,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "BlockPanel": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 5
+            },
+            {
+              "frame": 3.6666666666666665,
+              "value": 10.200000000000001
+            },
+            {
+              "frame": 4,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "TutorialContent": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8333333333333334,
+      "func": "ShowAnimation_HorseStartGo",
+      "params": []
+    },
+    {
+      "frame": 3,
+      "func": "ShowAnimation_HorseXuongNgua",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,897 @@
+{
+"Steps":[
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": false
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/btnSpin"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "SPIN_START",
+            "position": {
+                "x": 400,
+                "y": 120
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 550,
+                "y": -50
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_STOPPED"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "WILD_INFO",
+            "position": {
+                "x": -50,
+                "y": 190
+            },
+            "arrow": {
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 40,
+                "y": -129.5,
+                "angle": 0
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "MULTI_INFO",
+            "position": {
+                "x": 150,
+                "y": 250
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": 1,
+                "x": 229,
+                "y": 30,
+                "angle": 90
+            }
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/GamePLay/MultiEfect"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "NOTYFY_INFO",
+            "position": {
+                "x": 0,
+                "y": -70
+            },
+            "arrow": {
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 0,
+                "y": -129.5,
+                "angle": 0
+            }
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/Notify"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "JACKPOT_INFO",
+            "position": {
+                "x": 0,
+                "y": 80
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": -1,
+                "x": -110,
+                "y": 129.5,
+                "angle": 0
+            },
+            "arrow2": {
+                "scaleX": 1,
+                "scaleY": -1,
+                "x": 110,
+                "y": 129.5,
+                "angle": 0
+            }
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/box_jackpot"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/btnSpin"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "CONTINUE",
+            "position": {
+                "x": 400,
+                "y": 120
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 550,
+                "y": -50
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_STOPPED"
+            ]
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/FirstMenu/btnInput"
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": -265,
+                "y": -190
+            }
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "NOT_WIN",
+            "position": {
+                "x": -290,
+                "y": -140
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SELECT_BOX_INPUT"
+            ]
+        }
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": true
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/FirstMenu/btnInput/Frame_CoinValue/SelectInput5"
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": -90,
+            "position": {
+                "x": -150,
+                "y": 130
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SELECT_INPUT"
+            ]
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/FirstMenu/btnBuy/ic_tang"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INCREASE_BET",
+            "position": {
+                "x": -120,
+                "y": -130
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": -395,
+                "y": -210
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "BET_INCREASE"
+            ]
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/btnSpin"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "CONTINUE",
+            "position": {
+                "x": 400,
+                "y": 120
+            }
+        }
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": false
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 550,
+                "y": -50
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_STOPPED"
+            ]
+        }
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": true
+        }
+    },
+    {
+        "command": "_enableButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/toggleBoost"
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/toggleBoost"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "TURN_TURBO",
+            "position": {
+                "x": 350,
+                "y": 15
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 400,
+                "y": -195
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TURBO_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": false
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_disableButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/toggleBoost"
+        }
+    },
+    {
+        "command": "_unlockTouch"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/btnSpin"
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 550,
+                "y": -50
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "pauseIntroFree"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SHOWING_INTRO_FREE"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_FREE",
+            "position": {
+                "x": -60,
+                "y": -195
+            },
+            "arrow": {
+                "scaleX": 1,
+                "scaleY": -1,
+                "x": 30,
+                "y": 122
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "pauseIntroFree"
+        }
+    },
+    {
+        "command": "_resumeCurrentScript"
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SHOWING_POPUP_FREE"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_SELECT_FREE",
+            "position": {
+                "x": 0,
+                "y": -150
+            }
+        }
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/SlotEffect/effectStartFree/NodeSelect/Btn5"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SLECT_INPUT_FREE"
+            ]
+        }
+    },
+    {
+        "command": "_unlockTouch"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "pauseAddFreeGame"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "ENTER_ADD_FREE"
+            ]
+        }
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "pauseAddFreeGame"
+        }
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/GamePLayFree/bgMain/Bag"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_ADD_FREE",
+            "position": {
+                "x": -250,
+                "y": 0
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": -1,
+                "x": -100,
+                "y": 128
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_resumeCurrentScript"
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "nextFreeGame"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SELECT_ADD_FREE_2"
+            ]
+        }
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "nextFreeGame"
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/SlotEffect/effectStartFree/NodeSelect/Btn6"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SLECT_INPUT_FREE"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "wildInfoJackpot"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SHOW_INFO_WILD"
+            ]
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/GamePLayFree/bgMain/Node3/NodeStop3/13"
+        }
+    },   
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "WILD_INFO_JACKPOT",
+            "position": {
+                "x": 420,
+                "y": 110
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "wildInfoJackpot"
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_resumeCurrentScript"
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "EndTutorial"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "END_TUTORIAL"
+            ]
+        }
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "EndTutorial"
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/SlotNguLong/Menu/LastMenu/btnSpin"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "END_TUTORIAL",
+            "position": {
+                "x": 420,
+                "y": 120
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 550,
+                "y": -50
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    }
+]
+}

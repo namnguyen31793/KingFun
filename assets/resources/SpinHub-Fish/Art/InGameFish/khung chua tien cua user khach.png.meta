@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "aad10dc6-3fb2-4619-96df-0510b887cf88",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 48,
+  "platformSettings": {},
+  "subMetas": {
+    "khung chua tien cua user khach": {
+      "ver": "1.0.6",
+      "uuid": "43a821a2-c150-400c-8d28-7247acfffb80",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "aad10dc6-3fb2-4619-96df-0510b887cf88",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 48,
+      "rawWidth": 180,
+      "rawHeight": 48,
+      "borderTop": 12,
+      "borderBottom": 11,
+      "borderLeft": 14,
+      "borderRight": 19,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,531 @@
+{
+"Steps":[
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "pauseAutoSpin"
+        }
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "disableAutoSpin"
+        }
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": false
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/Quay_Button"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "SPIN_START",
+            "position": {
+                "x": 420,
+                "y": 120
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 540,
+                "y": -60
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_STOPPED"
+            ]
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SHOW_NORMAL_PAYLINE"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_INFO",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": 1,
+                "x": 0,
+                "y": -127.5
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/left-bar/JackpotInfo"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_JACKPOT",
+            "position": {
+                "x": -160,
+                "y": 160
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": -1,
+                "x": -235,
+                "y": 40,
+                "angle": 90
+            },
+            "arrow2": {
+                "scaleX": -1,
+                "scaleY": -1,
+                "x": -235,
+                "y": -50,
+                "angle": 90
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": true
+        }
+    },
+    {
+        "command": "_unlockTouch"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/ChonCuoc_Button/TangCuoc_Btn"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INCREASE_BET",
+            "position": {
+                "x": -217,
+                "y": -10
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": -217,
+                "y": -190
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "BET_INCREASE"
+            ]
+        }
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_activeBet",
+        "data": {
+            "active": false
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_enableButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/SieuToc_Toggle"
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/SieuToc_Toggle"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "TURN_TURBO",
+            "position": {
+                "x": 424,
+                "y": 5
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 424,
+                "y": -188
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TURBO_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_disableButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/SieuToc_Toggle"
+        }
+    },
+    {
+        "command": "_unlockTouch"
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/Quay_Button"
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "CONTINUE_SPIN",
+            "position": {
+                "x": 420,
+                "y": 120
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 540,
+                "y": -60
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_lockTouch",
+        "data": {
+            "gradient": false
+        }
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "pauseIntroGong"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SHOWING_GONG"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_TOP_UP",
+            "position": {
+                "x": 50,
+                "y": 50
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": -1,
+                "x": 0,
+                "y": 127.5
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "INTRO_GONG",
+            "position": {
+                "x": 330,
+                "y": 50
+            },
+            "arrow": {
+                "angle": -90,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -235,
+                "y": 0
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "pauseIntroGong"
+        }
+    },
+    {
+        "command": "_resumeCurrentScript"
+    },
+    {
+        "command": "_addBoolFlag",
+        "data": {
+            "flag": "pauseFreeGame"
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "ENTER_GAME_MODE"
+            ]
+        }
+    },
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "UN_LOCK_JACKPOT",
+            "position": {
+                "x": 0,
+                "y": 50
+            },
+            "arrow": {
+                "scaleX": -1,
+                "scaleY": -1,
+                "x": -114,
+                "y": 127.5
+            },
+            "arrow2": {
+                "scaleX": 1,
+                "scaleY": -1,
+                "x": 114,
+                "y": 127.5
+            }
+        }
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "TUTORIAL_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_unlockTouch"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "pauseFreeGame"
+        }
+    },
+    {
+        "command": "_resumeCurrentScript"
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "GAME_RESET_SESSION"
+            ]
+        }
+    },
+    {
+        "command": "_lockAtButton",
+        "data": {
+            "objPath": "Canvas/CungHyView/slotsView/bot-bar/Quay_Button"
+        }
+    },   
+    {
+        "command": "_showDialog",
+        "data": {
+            "title": "",
+            "content": "HOLD_TO_AUTO_SPIN",
+            "position": {
+                "x": 420,
+                "y": 110
+            }
+        }
+    },
+    {
+        "command": "_showIndicator",
+        "data": {
+            "rotation": 0,
+            "position": {
+                "x": 540,
+                "y": -60
+            }
+        }
+    },
+    {
+        "command": "_removeBoolFlag",
+        "data": {
+            "flag": "pauseAutoSpin"
+        }
+    },
+    {
+        "command": "_unlockTouch"
+    },
+    {
+        "command": "_waitFor",
+        "data": {
+            "trigger": [
+                "SPIN_CLICK",
+                "AUTO_SPIN_CLICK"
+            ]
+        }
+    },
+    {
+        "command": "_unlockButton"
+    },
+    {
+        "command": "_hideDialog"
+    },
+    {
+        "command": "_hideIndicator"
+    }
+]
+}

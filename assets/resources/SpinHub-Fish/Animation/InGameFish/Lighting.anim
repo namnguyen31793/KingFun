@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Lighting",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b3b39f5c-00ae-46b4-8d05-8bbc0e260a7a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "b6dc3a67-1b7f-4660-8209-35481bcc3a1c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

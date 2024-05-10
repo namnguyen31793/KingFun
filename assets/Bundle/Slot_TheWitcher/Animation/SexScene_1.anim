@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SexScene_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4229e9c1-2b94-4b9c-a335-c184693ff55c"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "bbdae3e6-8063-4667-a1f1-ba8ef6eb7ce9"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "017e2c18-710e-4b70-af7f-422b600a392d"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "ad4dd842-ee78-478f-8aa4-f48e16b9fcc9"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b2bc7939-6da8-4a2e-9213-15a0c07a73f2"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "11280ffd-f902-44f3-882b-a6aeec83661c"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "5afaa903-e42b-41d7-9e78-c73ec3b0f18f"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "7937608a-a7b5-4836-ba47-1302a0e300df"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "34de2dca-b333-4846-995e-a2ef4421cdc3"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "d60c2628-6153-49c2-8353-294cbe532a94"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8817caf3-a4c9-4136-b63c-aa601d99a276"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "4b190e77-83da-451f-b29a-2e2bb8c82681"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "a37f431c-a43d-4f98-947b-fcffebb20ade"
+            }
+          },
+          {
+            "frame": 0.65,
+            "value": {
+              "__uuid__": "9d3d0fba-295c-4052-8574-ab407848b2ee"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "9459899e-2619-498f-a8dd-4ea0de32ea1b"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "1f111578-f413-457b-8872-29ddb0d6d27c"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "2d11048e-51b3-4b56-a909-0197109f7550"
+            }
+          },
+          {
+            "frame": 0.85,
+            "value": {
+              "__uuid__": "19f5104d-092b-41d0-988e-531a252871f5"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "1d3baa41-3c1f-47a2-a927-d01b0606a1ce"
+            }
+          },
+          {
+            "frame": 0.95,
+            "value": {
+              "__uuid__": "80883b14-05c7-4d9d-b14e-8bdeb34e8f38"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d042327e-61dd-4089-90b8-3e5c717b47bd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 426,
+  "height": 255,
+  "platformSettings": {},
+  "subMetas": {
+    "Award_DarknessMonster": {
+      "ver": "1.0.6",
+      "uuid": "d9490d6a-8112-4c7b-b89d-0a696ac9d7a7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d042327e-61dd-4089-90b8-3e5c717b47bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 418,
+      "height": 254,
+      "rawWidth": 426,
+      "rawHeight": 255,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

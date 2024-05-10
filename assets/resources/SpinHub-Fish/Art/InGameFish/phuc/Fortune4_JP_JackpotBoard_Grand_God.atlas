@@ -1,0 +1,209 @@
+
+Fortune4_JP_JackpotBoard_Grand_God.png
+size: 1855,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baby_Body
+  rotate: false
+  xy: 1524, 18
+  size: 184, 190
+  orig: 193, 248
+  offset: 9, 0
+  index: -1
+Baby_Head
+  rotate: true
+  xy: 1303, 9
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Baby_LeftHand
+  rotate: false
+  xy: 1192, 69
+  size: 109, 90
+  orig: 109, 90
+  offset: 0, 0
+  index: -1
+Baby_Mouth_D
+  rotate: true
+  xy: 1137, 12
+  size: 55, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Baby_Mouth_U
+  rotate: false
+  xy: 536, 6
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+Baby_RightArm
+  rotate: false
+  xy: 915, 5
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+Baby_Toy01
+  rotate: true
+  xy: 1710, 344
+  size: 70, 142
+  orig: 70, 142
+  offset: 0, 0
+  index: -1
+Baby_Toy02
+  rotate: true
+  xy: 1710, 416
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+Baby_Toy03
+  rotate: false
+  xy: 1450, 15
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+Baby_Toy_HandBack
+  rotate: false
+  xy: 599, 6
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+Baby_Toy_HandFront
+  rotate: true
+  xy: 489, 3
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Baby_Toy_Rope_Behind
+  rotate: false
+  xy: 1187, 30
+  size: 18, 37
+  orig: 23, 37
+  offset: 4, 0
+  index: -1
+Baby_Toy_Rope_Front
+  rotate: false
+  xy: 990, 6
+  size: 16, 61
+  orig: 16, 61
+  offset: 0, 0
+  index: -1
+Circle_Grand
+  rotate: false
+  xy: 2, 2
+  size: 485, 487
+  orig: 487, 487
+  offset: 1, 0
+  index: -1
+Grand_Body
+  rotate: true
+  xy: 1192, 161
+  size: 328, 318
+  orig: 328, 318
+  offset: 0, 0
+  index: -1
+Grand_Hat_Left
+  rotate: true
+  xy: 1767, 253
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+Grand_Hat_Right
+  rotate: false
+  xy: 820, 4
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+Grand_Head
+  rotate: false
+  xy: 1512, 210
+  size: 164, 279
+  orig: 167, 279
+  offset: 0, 0
+  index: -1
+Grand_Ribbon
+  rotate: false
+  xy: 785, 69
+  size: 405, 420
+  orig: 405, 420
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: true
+  xy: 1022, 9
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+Hair_Left
+  rotate: true
+  xy: 622, 9
+  size: 22, 134
+  orig: 22, 134
+  offset: 0, 0
+  index: -1
+Hair_Right
+  rotate: true
+  xy: 1187, 9
+  size: 19, 89
+  orig: 19, 89
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: false
+  xy: 1710, 106
+  size: 121, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+Left_Cloth
+  rotate: false
+  xy: 489, 33
+  size: 145, 456
+  orig: 145, 456
+  offset: 0, 0
+  index: -1
+Lip_Down
+  rotate: false
+  xy: 758, 3
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+Lip_UPTeeth
+  rotate: true
+  xy: 1175, 16
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+Lip_Up
+  rotate: true
+  xy: 1008, 8
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: true
+  xy: 1678, 218
+  size: 124, 87
+  orig: 125, 88
+  offset: 0, 0
+  index: -1
+Right_Cloth
+  rotate: false
+  xy: 636, 35
+  size: 147, 454
+  orig: 152, 454
+  offset: 5, 0
+  index: -1

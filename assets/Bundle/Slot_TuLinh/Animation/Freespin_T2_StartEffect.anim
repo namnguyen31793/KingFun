@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Freespin_T2_StartEffect",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "KhungContent": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -1000
+            },
+            {
+              "frame": 0.5,
+              "value": 12.121
+            }
+          ]
+        }
+      },
+      "bot-bar/Thang_Content": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -1000
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bot-bar/Quay_Button": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -1034
+            },
+            {
+              "frame": 0.5,
+              "value": 34
+            }
+          ]
+        }
+      },
+      "right-bar": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": 300
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "left-bar": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": -300
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "top-bar": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -703
+            },
+            {
+              "frame": 0.5,
+              "value": 303
+            }
+          ]
+        }
+      },
+      "EffectView/ChumVang": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -705
+            },
+            {
+              "frame": 0.5,
+              "value": 305
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

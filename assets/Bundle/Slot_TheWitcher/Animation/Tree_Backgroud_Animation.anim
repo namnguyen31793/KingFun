@@ -1,0 +1,133 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Tree_Backgroud_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 12,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "BG_Tree_TopLeft": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -10
+            },
+            {
+              "frame": 2,
+              "value": 7
+            },
+            {
+              "frame": 4,
+              "value": -4
+            },
+            {
+              "frame": 6,
+              "value": 8
+            },
+            {
+              "frame": 12,
+              "value": -10
+            }
+          ]
+        }
+      },
+      "BG_Bushes_BotLeft": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 15
+            },
+            {
+              "frame": 6,
+              "value": -6
+            },
+            {
+              "frame": 9,
+              "value": 10
+            },
+            {
+              "frame": 12,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "BG_Tree_TopRight": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.8,
+              "value": 5
+            },
+            {
+              "frame": 4,
+              "value": -7
+            },
+            {
+              "frame": 6,
+              "value": 5
+            },
+            {
+              "frame": 9,
+              "value": -10
+            },
+            {
+              "frame": 12,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "BG_Bushes_BotRight": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 6
+            },
+            {
+              "frame": 8,
+              "value": -9
+            },
+            {
+              "frame": 12,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "cloud": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1715
+            },
+            {
+              "frame": 12,
+              "value": -1715
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

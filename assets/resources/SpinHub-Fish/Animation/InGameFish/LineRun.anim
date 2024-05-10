@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LineRun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "15123a99-026f-41f2-8066-7c114273e2b6"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "597cc8a2-9fc2-42be-9fd6-6c2158c43f85"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

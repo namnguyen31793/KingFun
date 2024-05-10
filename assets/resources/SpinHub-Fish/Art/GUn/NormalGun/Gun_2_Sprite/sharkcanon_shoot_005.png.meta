@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2eb97425-db71-4980-8342-c2fc4f497582",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 170,
+  "height": 260,
+  "platformSettings": {},
+  "subMetas": {
+    "sharkcanon_shoot_005": {
+      "ver": "1.0.6",
+      "uuid": "450bbc66-e762-431f-ae65-ef60e12b9d21",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2eb97425-db71-4980-8342-c2fc4f497582",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 170,
+      "height": 259,
+      "rawWidth": 170,
+      "rawHeight": 260,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

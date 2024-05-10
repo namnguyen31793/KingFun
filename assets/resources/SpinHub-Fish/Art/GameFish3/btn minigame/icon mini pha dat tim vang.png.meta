@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a270c66e-46f5-49e1-a3e4-2e3f05a11c70",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 113,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "icon mini pha dat tim vang": {
+      "ver": "1.0.6",
+      "uuid": "67584a75-4050-4d30-b747-3cff13e5a736",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a270c66e-46f5-49e1-a3e4-2e3f05a11c70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 113,
+      "height": 102,
+      "rawWidth": 113,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

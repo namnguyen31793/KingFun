@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a9ca0f8a-062c-4ca1-bb79-2d0fcad2cfc2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 387,
+  "height": 232,
+  "platformSettings": {},
+  "subMetas": {
+    "KingAnglerFish_title2": {
+      "ver": "1.0.6",
+      "uuid": "f3134198-8380-4084-a838-c667736e39c7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a9ca0f8a-062c-4ca1-bb79-2d0fcad2cfc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 385,
+      "height": 227,
+      "rawWidth": 387,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

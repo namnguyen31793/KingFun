@@ -1,0 +1,335 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bonus_SelectContent_EndSelect",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.11666666666666667,
+          "value": 30
+        },
+        {
+          "frame": 0.2,
+          "value": -25
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 20
+        },
+        {
+          "frame": 0.31666666666666665,
+          "value": -15
+        },
+        {
+          "frame": 0.35,
+          "value": 10
+        },
+        {
+          "frame": 0.38333333333333336,
+          "value": -10
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 10
+        },
+        {
+          "frame": 0.45,
+          "value": -10
+        },
+        {
+          "frame": 0.48333333333333334,
+          "value": 7
+        },
+        {
+          "frame": 0.5166666666666667,
+          "value": -7
+        },
+        {
+          "frame": 0.5333333333333333,
+          "value": 5
+        },
+        {
+          "frame": 0.55,
+          "value": 0
+        }
+      ]
+    },
+    "paths": {
+      "TL_Bonus_SelectItem_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -255,
+                160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -85,
+                160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                85,
+                160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                255,
+                160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -255,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -85,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_7": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                85,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_8": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                255,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_9": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -255,
+                -160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -85,
+                -160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_11": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                85,
+                -160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "TL_Bonus_SelectItem_12": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                255,
+                -160,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

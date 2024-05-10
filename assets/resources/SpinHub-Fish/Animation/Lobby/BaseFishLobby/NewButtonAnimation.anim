@@ -1,0 +1,117 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "NewButtonAnimation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "icon_Pufferfish": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -67.839,
+                115.578,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -57.789,
+                145.729,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "13_Paradise": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5.333,
+                -16,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                10.358,
+                -16,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                5.333,
+                -16,
+                0
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                7.846,
+                -16,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                5.333,
+                -16,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 2.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.4,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6,
+                "y": 1.2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

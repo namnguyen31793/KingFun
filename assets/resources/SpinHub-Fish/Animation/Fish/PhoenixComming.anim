@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PhoenixComming",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Phoenix_L": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                700,
+                573
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 3,
+              "value": [
+                3385,
+                -681
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

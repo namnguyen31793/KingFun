@@ -1,0 +1,34 @@
+
+tet_theme_packed.png
+size: 1513,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lion-body
+  rotate: false
+  xy: 0, 157
+  size: 172, 144
+  orig: 172, 144
+  offset: 0, 0
+  index: -1
+Lion-eye-L
+  rotate: false
+  xy: 183, 10
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+Lion-eye-R
+  rotate: false
+  xy: 1475, 36
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Lion-head
+  rotate: false
+  xy: 587, 300
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1

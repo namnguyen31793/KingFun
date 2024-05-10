@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e699e2fc-1524-46e0-8d36-333633f06fde",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Spine_GunAnubis_Atlas": {
+      "ver": "1.0.6",
+      "uuid": "dea0eb21-ecf2-4c5d-ad31-b38a529f4fc6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e699e2fc-1524-46e0-8d36-333633f06fde",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 507,
+      "height": 510,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

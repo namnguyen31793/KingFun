@@ -1,0 +1,50 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c231a15e-14f9-47f9-839f-f341473ed810",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": false,
+  "width": 505,
+  "height": 508,
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "webp",
+          "quality": 90
+        }
+      ]
+    },
+    "web": {
+      "formats": []
+    }
+  },
+  "subMetas": {
+    "FontMoney-export": {
+      "ver": "1.0.6",
+      "uuid": "1d000293-9d42-44aa-8d88-0252328be593",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c231a15e-14f9-47f9-839f-f341473ed810",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 502,
+      "height": 502,
+      "rawWidth": 505,
+      "rawHeight": 508,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

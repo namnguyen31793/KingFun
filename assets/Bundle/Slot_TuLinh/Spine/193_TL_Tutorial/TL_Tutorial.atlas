@@ -1,0 +1,118 @@
+
+TL_Tutorial.png
+size: 421,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Choi That
+  rotate: true
+  xy: 2, 193
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+Choi Thu
+  rotate: false
+  xy: 304, 200
+  size: 114, 33
+  orig: 114, 33
+  offset: 0, 0
+  index: -1
+Cloud Bright Center
+  rotate: true
+  xy: 2, 61
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+Cloud Bright Center Blur
+  rotate: true
+  xy: 214, 202
+  size: 124, 88
+  orig: 124, 88
+  offset: 0, 0
+  index: -1
+Cloud Bright Left
+  rotate: false
+  xy: 308, 110
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+Cloud Bright Right
+  rotate: true
+  xy: 92, 69
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+Cloud Dark Center
+  rotate: true
+  xy: 47, 196
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+Cloud Dark Center Blur
+  rotate: true
+  xy: 183, 75
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1
+Cloud Dark Left
+  rotate: true
+  xy: 308, 2
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+Cloud Dark Right
+  rotate: true
+  xy: 133, 201
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 105, 3
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+Lightning 1
+  rotate: true
+  xy: 270, 27
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+Lightning 2
+  rotate: false
+  xy: 67, 3
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+Lightning 3
+  rotate: false
+  xy: 2, 3
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+Lightning 4
+  rotate: false
+  xy: 304, 235
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 215, 19
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1

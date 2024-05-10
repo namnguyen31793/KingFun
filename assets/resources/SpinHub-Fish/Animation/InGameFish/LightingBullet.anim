@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LightingBullet",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8b4e1bbc-5262-4fb6-a29d-c2f6cd15f812"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "367294e3-db9f-421a-b0f0-739bce5b61b8"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c75330cd-9473-451d-b796-7d2d42523562"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "a3e6cd3e-e034-422a-bd1e-08a04ae3cea4"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "327a05af-ef03-4955-aab1-3e765ada9b04"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

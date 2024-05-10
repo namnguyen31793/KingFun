@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3e58c516-8c68-43f0-baee-e457c36b7b3b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 427,
+  "height": 523,
+  "platformSettings": {},
+  "subMetas": {
+    "Spine_GunHuangZhong": {
+      "ver": "1.0.6",
+      "uuid": "bba4302a-15da-4c17-b22b-2228579dc1d9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3e58c516-8c68-43f0-baee-e457c36b7b3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 423,
+      "height": 519,
+      "rawWidth": 427,
+      "rawHeight": 523,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

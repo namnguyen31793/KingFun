@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ElectricFish_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d21e248e-5365-48b7-8bee-a09dad8f3513"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "0eccd6df-ee35-4649-9b23-38ca0c6201db"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4c2960bc-7c45-4252-b3ff-e670d08575c5"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e112cd83-9220-4da9-9575-63c9e65a7d07"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "050ecaa5-39ff-4b8f-b503-2c1a09c885b7"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "7a117568-2def-489e-9077-7ac1a95c7b77"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

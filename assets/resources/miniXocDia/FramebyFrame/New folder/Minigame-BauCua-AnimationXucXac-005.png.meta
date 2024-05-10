@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b1cf6751-a7e7-43df-ac0a-9f9402098f2e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 214,
+  "height": 214,
+  "platformSettings": {},
+  "subMetas": {
+    "Minigame-BauCua-AnimationXucXac-005": {
+      "ver": "1.0.6",
+      "uuid": "be572e26-e07c-4bf4-a96c-c5b90f6ac03c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b1cf6751-a7e7-43df-ac0a-9f9402098f2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 7,
+      "trimX": 11,
+      "trimY": 12,
+      "width": 198,
+      "height": 176,
+      "rawWidth": 214,
+      "rawHeight": 214,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

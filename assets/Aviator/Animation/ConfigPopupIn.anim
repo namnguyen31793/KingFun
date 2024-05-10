@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ConfigPopupIn",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ConfigPopup": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 280
+            }
+          ]
+        }
+      },
+      "BackBtn/icoBack": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.2,
+              "value": -1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

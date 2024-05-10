@@ -1,0 +1,384 @@
+
+BombCrabx.396.png
+size: 1993, 316
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BombCrab_Body
+  rotate: true
+  xy: 1704, 2
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+BombCrab_Bomb
+  rotate: false
+  xy: 635, 146
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+BombCrab_BombLight
+  rotate: false
+  xy: 1820, 85
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+BombCrab_Eye
+  rotate: false
+  xy: 574, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+BombCrab_Foot
+  rotate: false
+  xy: 805, 171
+  size: 97, 25
+  orig: 97, 25
+  offset: 0, 0
+  index: -1
+BombCrab_Fuse
+  rotate: true
+  xy: 1928, 113
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+BombCrab_Plier
+  rotate: false
+  xy: 1842, 142
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+BombCrab_exploBomb
+  rotate: false
+  xy: 2, 121
+  size: 192, 193
+  orig: 198, 199
+  offset: 3, 3
+  index: -1
+RGun_0000
+  rotate: true
+  xy: 356, 130
+  size: 184, 141
+  orig: 184, 141
+  offset: 0, 0
+  index: -1
+RGun_0000A
+  rotate: true
+  xy: 499, 139
+  size: 175, 134
+  orig: 184, 141
+  offset: 4, 3
+  index: -1
+drill_0000
+  rotate: false
+  xy: 202, 6
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+drill_0000_a
+  rotate: false
+  xy: 388, 8
+  size: 184, 120
+  orig: 184, 120
+  offset: 0, 0
+  index: -1
+hammer_0007
+  rotate: true
+  xy: 674, 5
+  size: 139, 114
+  orig: 139, 114
+  offset: 0, 0
+  index: -1
+hammer_0008/hammer_0001
+  rotate: true
+  xy: 1910, 231
+  size: 83, 68
+  orig: 95, 90
+  offset: 7, 11
+  index: -1
+hammer_0008/hammer_0002
+  rotate: true
+  xy: 1769, 228
+  size: 86, 69
+  orig: 95, 90
+  offset: 4, 11
+  index: -1
+hammer_0008/hammer_0003
+  rotate: true
+  xy: 1690, 138
+  size: 87, 74
+  orig: 95, 90
+  offset: 2, 10
+  index: -1
+hammer_0008/hammer_0004
+  rotate: false
+  xy: 1349, 3
+  size: 86, 77
+  orig: 95, 90
+  offset: 2, 9
+  index: -1
+hammer_0008/hammer_0005
+  rotate: false
+  xy: 1171, 2
+  size: 87, 78
+  orig: 95, 90
+  offset: 2, 10
+  index: -1
+hammer_0008/hammer_0006
+  rotate: true
+  xy: 1687, 227
+  size: 87, 80
+  orig: 95, 90
+  offset: 2, 7
+  index: -1
+hammer_0008/hammer_0007
+  rotate: true
+  xy: 1605, 226
+  size: 88, 80
+  orig: 95, 90
+  offset: 2, 6
+  index: -1
+hammer_0008/hammer_0008
+  rotate: false
+  xy: 1614, 2
+  size: 88, 79
+  orig: 95, 90
+  offset: 2, 6
+  index: -1
+hammer_0008/hammer_0009
+  rotate: false
+  xy: 990, 2
+  size: 90, 77
+  orig: 95, 90
+  offset: 0, 7
+  index: -1
+hammer_0008/hammer_0010
+  rotate: false
+  xy: 1082, 2
+  size: 87, 77
+  orig: 95, 90
+  offset: 3, 5
+  index: -1
+hammer_0008/hammer_0011
+  rotate: false
+  xy: 1260, 2
+  size: 87, 78
+  orig: 95, 90
+  offset: 3, 4
+  index: -1
+hammer_0008/hammer_0012
+  rotate: false
+  xy: 1437, 3
+  size: 85, 77
+  orig: 95, 90
+  offset: 4, 4
+  index: -1
+hammer_0008/hammer_0013
+  rotate: false
+  xy: 1524, 4
+  size: 88, 76
+  orig: 95, 90
+  offset: 3, 6
+  index: -1
+hammer_0008/hammer_0014
+  rotate: true
+  xy: 1766, 138
+  size: 87, 74
+  orig: 95, 90
+  offset: 3, 10
+  index: -1
+spark_1
+  rotate: true
+  xy: 1690, 84
+  size: 52, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+spark_2
+  rotate: true
+  xy: 1855, 13
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+spark_3
+  rotate: false
+  xy: 1755, 85
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+spark_4
+  rotate: false
+  xy: 1928, 171
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+spark_5
+  rotate: false
+  xy: 1781, 8
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+spark_6
+  rotate: true
+  xy: 1840, 228
+  size: 86, 68
+  orig: 86, 70
+  offset: 0, 2
+  index: -1
+wheel__0000
+  rotate: true
+  xy: 196, 128
+  size: 186, 158
+  orig: 250, 250
+  offset: 33, 52
+  index: -1
+wheel_fire/wheel_fire_0000
+  rotate: true
+  xy: 2, 3
+  size: 116, 98
+  orig: 125, 125
+  offset: 5, 18
+  index: -1
+wheel_fire/wheel_fire_0001
+  rotate: true
+  xy: 990, 81
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0002
+  rotate: true
+  xy: 1005, 199
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0003
+  rotate: true
+  xy: 102, 3
+  size: 116, 98
+  orig: 125, 125
+  offset: 5, 18
+  index: -1
+wheel_fire/wheel_fire_0004
+  rotate: true
+  xy: 1090, 82
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0005
+  rotate: true
+  xy: 574, 21
+  size: 116, 98
+  orig: 125, 125
+  offset: 5, 18
+  index: -1
+wheel_fire/wheel_fire_0006
+  rotate: true
+  xy: 1105, 199
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0007
+  rotate: true
+  xy: 790, 28
+  size: 116, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0008
+  rotate: true
+  xy: 1590, 83
+  size: 114, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0009
+  rotate: true
+  xy: 805, 198
+  size: 116, 98
+  orig: 125, 125
+  offset: 5, 18
+  index: -1
+wheel_fire/wheel_fire_0010
+  rotate: true
+  xy: 1190, 82
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0011
+  rotate: true
+  xy: 890, 53
+  size: 116, 98
+  orig: 125, 125
+  offset: 5, 18
+  index: -1
+wheel_fire/wheel_fire_0012
+  rotate: true
+  xy: 1205, 199
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0013
+  rotate: true
+  xy: 1290, 82
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0014
+  rotate: true
+  xy: 1305, 199
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0015
+  rotate: true
+  xy: 1390, 82
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0016
+  rotate: true
+  xy: 905, 198
+  size: 116, 98
+  orig: 125, 125
+  offset: 5, 18
+  index: -1
+wheel_fire/wheel_fire_0017
+  rotate: true
+  xy: 1405, 199
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0018
+  rotate: true
+  xy: 1490, 82
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1
+wheel_fire/wheel_fire_0019
+  rotate: true
+  xy: 1505, 199
+  size: 115, 98
+  orig: 125, 125
+  offset: 6, 18
+  index: -1

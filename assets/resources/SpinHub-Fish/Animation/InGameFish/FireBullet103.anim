@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "FireBullet103",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "97377fae-6a18-404c-a469-1a44073d9101"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "040c14cf-b6a4-456f-9001-340579d18781"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "33ea0c14-77f0-4475-b2a6-82a3a6ec5916"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "d4042136-1417-4406-afec-8f4e1748929f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "48396720-a83f-4648-bd20-0f8376dba861"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "31f6bd8a-c867-4425-81e9-814bfd43e051"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

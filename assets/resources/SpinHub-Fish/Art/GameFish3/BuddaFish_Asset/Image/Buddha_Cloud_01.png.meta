@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0b7e599c-a220-4f0a-a4fe-a43fa2f83a0b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 595,
+  "height": 258,
+  "platformSettings": {},
+  "subMetas": {
+    "Buddha_Cloud_01": {
+      "ver": "1.0.6",
+      "uuid": "e22e3774-f81f-41a0-89e5-80cb3c7103ba",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0b7e599c-a220-4f0a-a4fe-a43fa2f83a0b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 594,
+      "height": 258,
+      "rawWidth": 595,
+      "rawHeight": 258,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

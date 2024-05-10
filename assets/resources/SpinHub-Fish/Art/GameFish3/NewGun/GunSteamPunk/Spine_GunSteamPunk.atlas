@@ -1,0 +1,111 @@
+
+Spine_GunSteamPunk.png
+size: 432, 513
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Barrel
+  rotate: false
+  xy: 179, 11
+  size: 70, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+Below
+  rotate: true
+  xy: 297, 203
+  size: 135, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+Below_light
+  rotate: false
+  xy: 2, 13
+  size: 104, 97
+  orig: 107, 98
+  offset: 1, 0
+  index: -1
+Gear_A
+  rotate: false
+  xy: 108, 40
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Gear_B
+  rotate: false
+  xy: 2, 112
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 297, 340
+  size: 133, 171
+  orig: 133, 171
+  offset: 0, 0
+  index: -1
+Head_light
+  rotate: true
+  xy: 2, 222
+  size: 82, 178
+  orig: 87, 182
+  offset: 2, 4
+  index: -1
+Main
+  rotate: false
+  xy: 2, 306
+  size: 293, 205
+  orig: 293, 205
+  offset: 0, 0
+  index: -1
+Side
+  rotate: false
+  xy: 182, 173
+  size: 111, 131
+  orig: 111, 131
+  offset: 0, 0
+  index: -1
+Side_light
+  rotate: false
+  xy: 295, 14
+  size: 87, 87
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+Tube
+  rotate: true
+  xy: 112, 109
+  size: 111, 65
+  orig: 111, 65
+  offset: 0, 0
+  index: -1
+Tube_light
+  rotate: false
+  xy: 251, 48
+  size: 42, 55
+  orig: 44, 57
+  offset: 1, 1
+  index: -1
+YellowTube
+  rotate: false
+  xy: 108, 2
+  size: 66, 36
+  orig: 71, 38
+  offset: 3, 1
+  index: -1
+YellowTube_light
+  rotate: true
+  xy: 251, 105
+  size: 66, 36
+  orig: 71, 38
+  offset: 3, 1
+  index: -1
+main_light
+  rotate: false
+  xy: 295, 103
+  size: 122, 98
+  orig: 123, 100
+  offset: 1, 1
+  index: -1

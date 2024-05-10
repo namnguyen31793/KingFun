@@ -1,0 +1,327 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GodFishController_Animation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7.25,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "God_01": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.65,
+              "value": [
+                837,
+                425
+              ],
+              "motionPath": [
+                [
+                  -563,
+                  18,
+                  -644,
+                  214,
+                  -476,
+                  -194
+                ]
+              ]
+            },
+            {
+              "frame": 6.75,
+              "value": [
+                1173,
+                -392
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2.65,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 6.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            }
+          ]
+        }
+      },
+      "W_BG_tree": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -813.358,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -583.797,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_tree_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 2.45,
+              "value": [
+                801.675,
+                -203.834,
+                0
+              ]
+            },
+            {
+              "frame": 5.75,
+              "value": [
+                801.675,
+                -203.834,
+                0
+              ]
+            },
+            {
+              "frame": 6.25,
+              "value": [
+                675.712,
+                -200.315,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_wood_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 5.1,
+              "value": [
+                0,
+                600,
+                0
+              ]
+            },
+            {
+              "frame": 5.6,
+              "value": [
+                0,
+                -229.19,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_pack_orange": {
+        "props": {
+          "position": [
+            {
+              "frame": 5.5,
+              "value": [
+                0,
+                600,
+                0
+              ]
+            },
+            {
+              "frame": 5.75,
+              "value": [
+                0,
+                -116,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_wood_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 3.25,
+              "value": [
+                15.832,
+                600,
+                0
+              ]
+            },
+            {
+              "frame": 3.75,
+              "value": [
+                15.832,
+                245.455,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_rhombus_3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 6.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 6.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.3,
+                "y": 1.3
+              }
+            },
+            {
+              "frame": 7.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 5.75,
+              "value": false
+            },
+            {
+              "frame": 6.25,
+              "value": true
+            }
+          ]
+        }
+      },
+      "W_TOP_LOGO_01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -461.101,
+                800,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -461.101,
+                280,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_TOP_LOGO_02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                403.711,
+                800,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                403.711,
+                280,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_cloud01": {
+        "props": {
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -1173.531,
+                229.561,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -470.996,
+                229.561,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_cloud02": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.25,
+              "value": [
+                1067,
+                -109
+              ]
+            },
+            {
+              "frame": 1.95,
+              "value": [
+                227,
+                -85
+              ]
+            }
+          ]
+        }
+      },
+      "W_BG_cloud03": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.75,
+              "value": [
+                -976,
+                -40
+              ]
+            },
+            {
+              "frame": 2.45,
+              "value": [
+                -249,
+                -40
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

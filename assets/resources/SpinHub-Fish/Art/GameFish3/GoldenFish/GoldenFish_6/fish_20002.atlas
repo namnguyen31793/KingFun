@@ -1,0 +1,104 @@
+
+fish_20002.png
+size: 252,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinshuimu_10
+  rotate: false
+  xy: 134, 54
+  size: 114, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+jinshuimu_11
+  rotate: true
+  xy: 172, 203
+  size: 157, 68
+  orig: 157, 72
+  offset: 0, 2
+  index: -1
+jinshuimu_12
+  rotate: false
+  xy: 2, 362
+  size: 232, 57
+  orig: 232, 80
+  offset: 0, 6
+  index: -1
+jinshuimu_13
+  rotate: false
+  xy: 145, 97
+  size: 103, 46
+  orig: 144, 86
+  offset: 0, 0
+  index: -1
+jinshuimu_14
+  rotate: true
+  xy: 2, 236
+  size: 97, 157
+  orig: 97, 157
+  offset: 0, 0
+  index: -1
+jinshuimu_15
+  rotate: true
+  xy: 2, 2
+  size: 34, 125
+  orig: 34, 125
+  offset: 0, 0
+  index: -1
+jinshuimu_2
+  rotate: true
+  xy: 145, 145
+  size: 56, 105
+  orig: 75, 130
+  offset: 9, 13
+  index: -1
+jinshuimu_3
+  rotate: false
+  xy: 2, 157
+  size: 141, 54
+  orig: 141, 54
+  offset: 0, 0
+  index: -1
+jinshuimu_4
+  rotate: false
+  xy: 2, 101
+  size: 141, 54
+  orig: 141, 54
+  offset: 0, 0
+  index: -1
+jinshuimu_5
+  rotate: false
+  xy: 2, 421
+  size: 238, 32
+  orig: 238, 32
+  offset: 0, 0
+  index: -1
+jinshuimu_6
+  rotate: false
+  xy: 2, 213
+  size: 152, 21
+  orig: 152, 21
+  offset: 0, 0
+  index: -1
+jinshuimu_7
+  rotate: false
+  xy: 134, 3
+  size: 111, 49
+  orig: 111, 49
+  offset: 0, 0
+  index: -1
+jinshuimu_8
+  rotate: false
+  xy: 2, 38
+  size: 130, 61
+  orig: 130, 61
+  offset: 0, 0
+  index: -1
+jinshuimu_9
+  rotate: false
+  xy: 2, 335
+  size: 168, 25
+  orig: 168, 25
+  offset: 0, 0
+  index: -1

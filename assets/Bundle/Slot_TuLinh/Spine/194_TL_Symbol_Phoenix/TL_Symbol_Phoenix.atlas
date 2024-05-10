@@ -1,0 +1,153 @@
+
+TL_Symbol_Phoenix.png
+size: 466,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 219
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 375, 20
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Eye Bright
+  rotate: false
+  xy: 349, 37
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Fire/Fire 01
+  rotate: false
+  xy: 389, 196
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+Fire/Fire 03
+  rotate: true
+  xy: 389, 253
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+Fire/Fire 05
+  rotate: true
+  xy: 260, 18
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+Fire/Fire 07
+  rotate: true
+  xy: 293, 238
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1
+Fire/Fire 09
+  rotate: false
+  xy: 2, 2
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+Fire/Fire 11
+  rotate: false
+  xy: 227, 117
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+Fire/Fire 13
+  rotate: false
+  xy: 116, 105
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+Fire/Fire 15
+  rotate: false
+  xy: 2, 104
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+Fire/Fire 17
+  rotate: true
+  xy: 124, 227
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+Fire/Fire 19
+  rotate: false
+  xy: 153, 2
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 385, 109
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 227, 107
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 333, 122
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Tail1
+  rotate: false
+  xy: 108, 3
+  size: 43, 99
+  orig: 43, 99
+  offset: 0, 0
+  index: -1
+Tail5
+  rotate: true
+  xy: 385, 173
+  size: 21, 67
+  orig: 21, 67
+  offset: 0, 0
+  index: -1
+Wing1
+  rotate: true
+  xy: 333, 170
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+Wing2
+  rotate: false
+  xy: 235, 237
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+Wing4
+  rotate: false
+  xy: 349, 62
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1

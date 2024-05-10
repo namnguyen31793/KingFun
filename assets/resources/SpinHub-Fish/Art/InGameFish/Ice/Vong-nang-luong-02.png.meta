@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ce8d6303-8d83-4eae-a7c2-a50395ea5f3a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Vong-nang-luong-02": {
+      "ver": "1.0.6",
+      "uuid": "6eaf9117-a2cb-47b3-853c-da978ada9389",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ce8d6303-8d83-4eae-a7c2-a50395ea5f3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 92,
+      "rawWidth": 92,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

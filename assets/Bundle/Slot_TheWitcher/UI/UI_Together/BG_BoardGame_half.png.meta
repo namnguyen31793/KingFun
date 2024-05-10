@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1501bda6-bb5c-49e4-b9c7-bb9f37855acc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 486,
+  "height": 603,
+  "platformSettings": {},
+  "subMetas": {
+    "BG_BoardGame_half": {
+      "ver": "1.0.6",
+      "uuid": "b35081b2-6a79-4fc3-99ee-b5ac0986b76a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1501bda6-bb5c-49e4-b9c7-bb9f37855acc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 486,
+      "height": 603,
+      "rawWidth": 486,
+      "rawHeight": 603,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

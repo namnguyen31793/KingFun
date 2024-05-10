@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8d9f8c5a-b065-4c18-9688-5a13c71c579a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 697,
+  "height": 518,
+  "platformSettings": {},
+  "subMetas": {
+    "TWFreeGameRedBarFull": {
+      "ver": "1.0.6",
+      "uuid": "287f872b-4834-4421-a6aa-4e3666ac1dd7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8d9f8c5a-b065-4c18-9688-5a13c71c579a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 692,
+      "height": 514,
+      "rawWidth": 697,
+      "rawHeight": 518,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

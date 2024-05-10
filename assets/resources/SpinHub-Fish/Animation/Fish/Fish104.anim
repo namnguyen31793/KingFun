@@ -1,0 +1,129 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Fish104",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "RootNode/body_0": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                0.07,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0.15,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "RootNode/body_0/1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -0.004,
+                -0.01,
+                0.01
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "RootNode/body_0/2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -0.001,
+                -0.002,
+                0.011
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

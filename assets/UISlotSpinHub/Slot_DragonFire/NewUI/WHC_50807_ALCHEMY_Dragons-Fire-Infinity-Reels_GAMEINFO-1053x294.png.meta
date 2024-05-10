@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d64572c1-e252-4000-9697-fa72f281ba79",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 279,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "WHC_50807_ALCHEMY_Dragons-Fire-Infinity-Reels_GAMEINFO-1053x294": {
+      "ver": "1.0.6",
+      "uuid": "f7c2dfea-f979-4c17-b700-4f1adc9c7aba",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d64572c1-e252-4000-9697-fa72f281ba79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 279,
+      "height": 82,
+      "rawWidth": 279,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
